@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-08-11.1",
+  "observations": [
+    {
+      "setCode": "hob",
+      "collectorNumber": "249",
+      "foil": true,
+      "valueUsd": 24000.0,
+      "kind": "Reported completed eBay sale",
+      "sourceLabel": "Screenshot in a community market report; buyer and seller were not independently verified by Sparkles",
+      "sourceUrl": "https://www.reddit.com/r/mtgfinance/comments/1vk5u6c/first_ebay_sale_of_gleaming_gold_smaug_24k/",
+      "observedAt": "2026-08-10",
+      "confidence": "provisional"
+    }
+  ]
+}
