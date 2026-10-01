@@ -4,8 +4,8 @@
   "rates": {
     "USD": 1.1355
   },
-  "observedAt": "2026-09-29",
+  "observedAt": "2026-09-30",
   "source": "ECB euro reference rate",
   "sourceUrl": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
-  "generatedAt": "2026-09-30T08:43:27.622424+00:00"
+  "generatedAt": "2026-10-01T08:44:14.014643+00:00"
 }
