@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "base": "EUR",
   "rates": {
-    "USD": 1.1298
+    "USD": 1.1225
   },
-  "observedAt": "2026-10-01",
+  "observedAt": "2026-10-02",
   "source": "ECB euro reference rate",
   "sourceUrl": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
-  "generatedAt": "2026-10-02T08:40:46.181607+00:00"
+  "generatedAt": "2026-10-03T08:39:13.754802+00:00"
 }
