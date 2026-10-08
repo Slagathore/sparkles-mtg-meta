@@ -1,14 +1,14 @@
 {
   "version": 1,
   "dims": 128,
-  "rows": 118027,
+  "rows": 118028,
   "model": "mobilenet_v3_large-contrastive-phone-v1",
   "model_sha256": "683c7b6e852c6917fe451640ff659539f3a2424c99abc68f66d402ae02bd889b",
   "auto_sim": 0.9479663372039795,
   "prompt_sim": 0.8709273934364319,
-  "built_at": "2026-10-07T08:47:12Z",
-  "index_sha256": "40a513eb389d6604b59e9eddb0cfcd00924dfc2830fd9d735c9bbd1a4e4a842c",
-  "embedded_rows": 117861,
+  "built_at": "2026-10-08T08:48:00Z",
+  "index_sha256": "33adedcbe0dc16cb07bae00df66ffb43d8c3b0ea736f66dbf347063ae858fb7f",
+  "embedded_rows": 117862,
   "preprocess": "resize 224x224 bilinear, RGB 0..1, ImageNet mean/std inside the graph",
   "model_precision": "fp32",
   "validation": {
