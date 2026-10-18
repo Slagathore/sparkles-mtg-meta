@@ -1,0 +1,3071 @@
+{
+ "mtgjson": "5.3.0+20261018",
+ "sets": {
+  "10e": {
+   "bytes": 19306,
+   "entries": 766,
+   "file": "10e.json.gz",
+   "printings": 508,
+   "refs": 766,
+   "sha256": "27f1a1282972755663a5d44e58c42d127097000e5064b70d785bde645b6f6c4a",
+   "types": [
+    "draft"
+   ]
+  },
+  "2ed": {
+   "bytes": 11754,
+   "entries": 636,
+   "file": "2ed.json.gz",
+   "printings": 302,
+   "refs": 636,
+   "sha256": "98529412d3b923198a60109ba619410c7f43081ad21f85611bcb5b2a5a8014d5",
+   "types": [
+    "default",
+    "starter"
+   ]
+  },
+  "2x2": {
+   "bytes": 25222,
+   "entries": 1479,
+   "file": "2x2.json.gz",
+   "printings": 577,
+   "refs": 1479,
+   "sha256": "ea0d528a469c51a80615fff65278835f92e8136db6b451056043e7bcf9745d15",
+   "types": [
+    "collector",
+    "draft"
+   ]
+  },
+  "2xm": {
+   "bytes": 17883,
+   "entries": 1237,
+   "file": "2xm.json.gz",
+   "printings": 382,
+   "refs": 1237,
+   "sha256": "235c1ed74fba1f892ad5aa787cc8873fe87c82e3768420bcffe5202d95b7f2ac",
+   "types": [
+    "box-topper",
+    "draft",
+    "vip"
+   ]
+  },
+  "30a": {
+   "bytes": 21063,
+   "entries": 594,
+   "file": "30a.json.gz",
+   "printings": 594,
+   "refs": 594,
+   "sha256": "037d80d974103def31d5b7197c75bdda18a8aca4812cb9003c0c7202e4d8380d",
+   "types": [
+    "draft"
+   ]
+  },
+  "3ed": {
+   "bytes": 11926,
+   "entries": 638,
+   "file": "3ed.json.gz",
+   "printings": 306,
+   "refs": 638,
+   "sha256": "3a35e80e0498689dc5e3ba1bda9c2bff9dd0abdf218eaf4d86d8175018092234",
+   "types": [
+    "default",
+    "starter"
+   ]
+  },
+  "4ed": {
+   "bytes": 14713,
+   "entries": 741,
+   "file": "4ed.json.gz",
+   "printings": 378,
+   "refs": 741,
+   "sha256": "bae94d1c2dca9423e5bb89e4d7c4293d2cc15efd83147a15b5e976c007ee8460",
+   "types": [
+    "default",
+    "starter"
+   ]
+  },
+  "5dn": {
+   "bytes": 7686,
+   "entries": 405,
+   "file": "5dn.json.gz",
+   "printings": 185,
+   "refs": 405,
+   "sha256": "b0c2345c835a17ddbd51019e5507f3de2fb54ec706d86f9890dcdc40cb8ecc97",
+   "types": [
+    "draft",
+    "fat-pack"
+   ]
+  },
+  "5ed": {
+   "bytes": 17467,
+   "entries": 878,
+   "file": "5ed.json.gz",
+   "printings": 449,
+   "refs": 878,
+   "sha256": "af879e825ad257c25243a0ea282e76b15e84867b4da66b738cdbeb6c50e83bc5",
+   "types": [
+    "draft",
+    "starter"
+   ]
+  },
+  "6ed": {
+   "bytes": 13723,
+   "entries": 680,
+   "file": "6ed.json.gz",
+   "printings": 350,
+   "refs": 680,
+   "sha256": "ea6380360954d1d905cedd73513200e23059cb1f9a5f99f6aa8ac67a8d1a06e2",
+   "types": [
+    "draft",
+    "tournament"
+   ]
+  },
+  "7ed": {
+   "bytes": 24499,
+   "entries": 700,
+   "file": "7ed.json.gz",
+   "printings": 700,
+   "refs": 700,
+   "sha256": "b19738e6c9d25298f98f4cc6b5be875e951130a927b774d77a922fbfb4c1de73",
+   "types": [
+    "draft"
+   ]
+  },
+  "8ed": {
+   "bytes": 24427,
+   "entries": 700,
+   "file": "8ed.json.gz",
+   "printings": 700,
+   "refs": 700,
+   "sha256": "44837c5099bd534caee01df75c627449c34c816172950783a4f9a934ae724c15",
+   "types": [
+    "draft"
+   ]
+  },
+  "9ed": {
+   "bytes": 24466,
+   "entries": 700,
+   "file": "9ed.json.gz",
+   "printings": 700,
+   "refs": 700,
+   "sha256": "607bce4733a599adcbdacb36bd63369dfa31e223f7996b1d6677be5e63594e87",
+   "types": [
+    "draft"
+   ]
+  },
+  "a25": {
+   "bytes": 11175,
+   "entries": 498,
+   "file": "a25.json.gz",
+   "printings": 249,
+   "refs": 498,
+   "sha256": "03b5379126b7e2a8b53850fdfa08a9e45958d0cfd2f11885fe54e3bca60a54a8",
+   "types": [
+    "draft"
+   ]
+  },
+  "acr": {
+   "bytes": 11421,
+   "entries": 584,
+   "file": "acr.json.gz",
+   "printings": 275,
+   "refs": 584,
+   "sha256": "e62e4f98a073e2a35c7f222644fb6f462b09e56c0673391df2880af3af45a284",
+   "types": [
+    "collector",
+    "default"
+   ]
+  },
+  "aer": {
+   "bytes": 11798,
+   "entries": 476,
+   "file": "aer.json.gz",
+   "printings": 277,
+   "refs": 476,
+   "sha256": "506ccb6f9f7501ac4cfbe237d5677e68dadc86363eb8738071ce41327b0aaf1b",
+   "types": [
+    "draft",
+    "prerelease"
+   ]
+  },
+  "afr": {
+   "bytes": 45776,
+   "entries": 3648,
+   "file": "afr.json.gz",
+   "printings": 1018,
+   "refs": 3648,
+   "sha256": "901f5c7494477e4a6fac4914c36a5ae26e75f9f5f39644c5c4833721360c8429",
+   "types": [
+    "arena",
+    "collector",
+    "draft",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "set",
+    "theme-b",
+    "theme-dungeons",
+    "theme-g",
+    "theme-r",
+    "theme-u",
+    "theme-w"
+   ]
+  },
+  "akh": {
+   "bytes": 72259,
+   "entries": 2698,
+   "file": "akh.json.gz",
+   "printings": 1721,
+   "refs": 2698,
+   "sha256": "8be43db9585f19f9f44f3cc80f2b9ab6fa0f9378727f5a1453e1fe89990e7b3c",
+   "types": [
+    "draft",
+    "prerelease",
+    "showdown"
+   ]
+  },
+  "akr": {
+   "bytes": 12451,
+   "entries": 303,
+   "file": "akr.json.gz",
+   "printings": 303,
+   "refs": 303,
+   "sha256": "739b63e8a015f271577c6e690992e4e38d171ef01f3523002d1f035b879ed12a",
+   "types": [
+    "arena"
+   ]
+  },
+  "ala": {
+   "bytes": 23138,
+   "entries": 1535,
+   "file": "ala.json.gz",
+   "printings": 539,
+   "refs": 1535,
+   "sha256": "f7eeb99a601b23acd650f2370645b12a22860e4bf4400932403988cd1b1f1982",
+   "types": [
+    "draft",
+    "premium",
+    "tournament"
+   ]
+  },
+  "all": {
+   "bytes": 7601,
+   "entries": 199,
+   "file": "all.json.gz",
+   "printings": 199,
+   "refs": 199,
+   "sha256": "bacdfa68a0d1f619f8917bc42e0f5e71d2045df46cf9a1654f66ba17dcc2bf9a",
+   "types": [
+    "default"
+   ]
+  },
+  "apc": {
+   "bytes": 6613,
+   "entries": 361,
+   "file": "apc.json.gz",
+   "printings": 163,
+   "refs": 361,
+   "sha256": "4c7fbcbb4f28b647a5516ccd8ca6d2627b56bd335df25386bb936b21edd0356a",
+   "types": [
+    "draft",
+    "fat-pack"
+   ]
+  },
+  "arb": {
+   "bytes": 7330,
+   "entries": 475,
+   "file": "arb.json.gz",
+   "printings": 165,
+   "refs": 475,
+   "sha256": "2ef81f7612922eb4faaaab7eaa4670a0edde9c51218160c4678bc20f7fd42825",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "arn": {
+   "bytes": 3722,
+   "entries": 92,
+   "file": "arn.json.gz",
+   "printings": 92,
+   "refs": 92,
+   "sha256": "bf6db3b2c8fda2d8c84b3c00d35f3d738a357cf25bf128cb7faa994170dcd7ac",
+   "types": [
+    "default"
+   ]
+  },
+  "atq": {
+   "bytes": 4000,
+   "entries": 100,
+   "file": "atq.json.gz",
+   "printings": 100,
+   "refs": 100,
+   "sha256": "e2a301cf351cb6803f8444a6030e7d813285d53e39b73b0e8453a1e39f9e06a5",
+   "types": [
+    "default"
+   ]
+  },
+  "avr": {
+   "bytes": 10813,
+   "entries": 732,
+   "file": "avr.json.gz",
+   "printings": 244,
+   "refs": 732,
+   "sha256": "7b9185e170927c765030a1455b6c8e0b074a76f30b3f5c758f9ab892f3b69ef2",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "bbd": {
+   "bytes": 12184,
+   "entries": 520,
+   "file": "bbd.json.gz",
+   "printings": 268,
+   "refs": 520,
+   "sha256": "f2e34a2933a45645abd730d2fe5bb6b3a580b0bb2c26e6977c1ef2e317520970",
+   "types": [
+    "draft",
+    "prerelease"
+   ]
+  },
+  "bfz": {
+   "bytes": 15550,
+   "entries": 641,
+   "file": "bfz.json.gz",
+   "printings": 367,
+   "refs": 641,
+   "sha256": "5aeb58254839d9ffd83f93a657f2368b0edc96ff1cddc338a7d9b9c24f47db66",
+   "types": [
+    "draft",
+    "prerelease"
+   ]
+  },
+  "blb": {
+   "bytes": 34331,
+   "entries": 3956,
+   "file": "blb.json.gz",
+   "printings": 712,
+   "refs": 3956,
+   "sha256": "7f62226c808d58f17a4c09a9f9bf817e3770a24e864e054d48ed42057e80b2d2",
+   "types": [
+    "collector",
+    "collector-sample",
+    "play",
+    "play-arena",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "value"
+   ]
+  },
+  "bng": {
+   "bytes": 8687,
+   "entries": 524,
+   "file": "bng.json.gz",
+   "printings": 190,
+   "refs": 524,
+   "sha256": "05da321ff05bd0d8962284484c0ddc9dbede1a04bcf9675f8b31bf7c69b174cf",
+   "types": [
+    "draft",
+    "prerelease-conquer",
+    "prerelease-dominate",
+    "prerelease-lead",
+    "prerelease-outwit",
+    "prerelease-thrive"
+   ]
+  },
+  "bok": {
+   "bytes": 7903,
+   "entries": 405,
+   "file": "bok.json.gz",
+   "printings": 185,
+   "refs": 405,
+   "sha256": "ae37883b2d36f0de3e4ae4ba47d8f706db44a3228ec9087615a3b79cdb7f8363",
+   "types": [
+    "draft",
+    "fat-pack"
+   ]
+  },
+  "bro": {
+   "bytes": 55358,
+   "entries": 4760,
+   "file": "bro.json.gz",
+   "printings": 1226,
+   "refs": 4760,
+   "sha256": "d7407e2b1677bf41c496823c390ec2906fab6246350601b679ced3fe1cf77a8e",
+   "types": [
+    "arena",
+    "bundle-transformers",
+    "collector",
+    "collector-sample",
+    "draft",
+    "gift-bundle-transformers",
+    "jumpstart",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "set"
+   ]
+  },
+  "chk": {
+   "bytes": 13160,
+   "entries": 1338,
+   "file": "chk.json.gz",
+   "printings": 307,
+   "refs": 1338,
+   "sha256": "743aaf9ee6f252388f59ec26f39b5ac08f66010cae6a07d30dadad46d4e48a2b",
+   "types": [
+    "draft",
+    "fat-pack",
+    "tournament"
+   ]
+  },
+  "chr": {
+   "bytes": 5122,
+   "entries": 125,
+   "file": "chr.json.gz",
+   "printings": 125,
+   "refs": 125,
+   "sha256": "b7b8f92fb810453dde45d6f9da5a7b9c42b23968b8ad9f8fc061431f25cc6897",
+   "types": [
+    "default"
+   ]
+  },
+  "clb": {
+   "bytes": 49622,
+   "entries": 3934,
+   "file": "clb.json.gz",
+   "printings": 1064,
+   "refs": 3934,
+   "sha256": "e8e491031d1b587a6b6edf4558cc4f528e15ae4a3bb95195de7a836110854ceb",
+   "types": [
+    "collector",
+    "collector-sample",
+    "draft",
+    "prerelease",
+    "set"
+   ]
+  },
+  "clu": {
+   "bytes": 11178,
+   "entries": 330,
+   "file": "clu.json.gz",
+   "printings": 267,
+   "refs": 330,
+   "sha256": "492a1c839a7b45edde60e459bbd57b1712ed8270e2aee83941d1cebed263ee60",
+   "types": [
+    "box-topper",
+    "default"
+   ]
+  },
+  "cmm": {
+   "bytes": 49815,
+   "entries": 3947,
+   "file": "cmm.json.gz",
+   "printings": 1048,
+   "refs": 3947,
+   "sha256": "bc316bc3718194399d1fec5529955b7eb9f60372fc0171da091ece88374b52f8",
+   "types": [
+    "collector",
+    "collector-sample",
+    "draft",
+    "set"
+   ]
+  },
+  "cmr": {
+   "bytes": 25734,
+   "entries": 1495,
+   "file": "cmr.json.gz",
+   "printings": 566,
+   "refs": 1495,
+   "sha256": "c224859e3dadfa7c41163a8ae44a9ec2d77446bb50ed62de22246a2b7bdf94c9",
+   "types": [
+    "collector",
+    "draft"
+   ]
+  },
+  "cn2": {
+   "bytes": 10087,
+   "entries": 442,
+   "file": "cn2.json.gz",
+   "printings": 222,
+   "refs": 442,
+   "sha256": "56115176356d3aa9cdc7eccd55f22c80bd17bba7afeb79891fcfb4dec8d1dae9",
+   "types": [
+    "draft"
+   ]
+  },
+  "cns": {
+   "bytes": 9454,
+   "entries": 420,
+   "file": "cns.json.gz",
+   "printings": 210,
+   "refs": 420,
+   "sha256": "b56c9e1a41b2d176949dffcaa1d430882fe0f8a3fd2d787e0160543167628915",
+   "types": [
+    "draft"
+   ]
+  },
+  "con": {
+   "bytes": 7344,
+   "entries": 475,
+   "file": "con_.json.gz",
+   "printings": 165,
+   "refs": 475,
+   "sha256": "f3e28035ad9160e9080b3ffaa9d7d6c9cecf6c57668b69f6dfe60c0383b52cca",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "csp": {
+   "bytes": 6888,
+   "entries": 310,
+   "file": "csp.json.gz",
+   "printings": 155,
+   "refs": 310,
+   "sha256": "1c4718af8258ea327bc08cfe788a6d70218f769f5419c219d93efb0cee7463bd",
+   "types": [
+    "draft"
+   ]
+  },
+  "dbl": {
+   "bytes": 24968,
+   "entries": 1068,
+   "file": "dbl.json.gz",
+   "printings": 534,
+   "refs": 1068,
+   "sha256": "76860552f012085ad7328ce0b883ed72223bb32e90503599ae8fbea09fa34494",
+   "types": [
+    "draft"
+   ]
+  },
+  "dft": {
+   "bytes": 37506,
+   "entries": 3212,
+   "file": "dft.json.gz",
+   "printings": 849,
+   "refs": 3212,
+   "sha256": "b18729e7f1ed4760f183fab5b7045934845f584fa7b04160c04d4d77e86ad25d",
+   "types": [
+    "box-topper",
+    "collector",
+    "collector-sample",
+    "play",
+    "play-arena",
+    "prerelease",
+    "promo",
+    "promo-foil"
+   ]
+  },
+  "dgm": {
+   "bytes": 8394,
+   "entries": 503,
+   "file": "dgm.json.gz",
+   "printings": 191,
+   "refs": 503,
+   "sha256": "82a2fbb72a2900d8553c2adae9013f53ec62b5c0cdcb61cd3953cab63124abc8",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "dis": {
+   "bytes": 7642,
+   "entries": 360,
+   "file": "dis.json.gz",
+   "printings": 180,
+   "refs": 360,
+   "sha256": "833174dd9d6b0020658996336c467ad4d0191eceb47f50e468a41300737a0394",
+   "types": [
+    "draft"
+   ]
+  },
+  "dka": {
+   "bytes": 7927,
+   "entries": 504,
+   "file": "dka.json.gz",
+   "printings": 173,
+   "refs": 504,
+   "sha256": "206627843747118e8ad07d2ebf1a88a0598246211a385ed4cd7ef0770bc9df55",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "dmr": {
+   "bytes": 19475,
+   "entries": 1543,
+   "file": "dmr.json.gz",
+   "printings": 456,
+   "refs": 1543,
+   "sha256": "91795c2d2381669ae5915d6a8112d56612ba2aaa41c504245639f5c715d4e3de",
+   "types": [
+    "collector",
+    "draft"
+   ]
+  },
+  "dmu": {
+   "bytes": 59334,
+   "entries": 3975,
+   "file": "dmu.json.gz",
+   "printings": 1335,
+   "refs": 3975,
+   "sha256": "f5315dd348c21871f143efe2c5e0c1ce5f418e9e2809c9bab8d40db49daa110d",
+   "types": [
+    "arena",
+    "box-topper",
+    "collector",
+    "collector-sample",
+    "draft",
+    "jumpstart",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "set"
+   ]
+  },
+  "dom": {
+   "bytes": 73973,
+   "entries": 3347,
+   "file": "dom.json.gz",
+   "printings": 1737,
+   "refs": 3347,
+   "sha256": "d3e03737a3d8f2cb6df282d907f68a2183c4003989e9c2d267357bb014086b73",
+   "types": [
+    "arena",
+    "draft",
+    "prerelease",
+    "showdown",
+    "theme-b",
+    "theme-g",
+    "theme-r",
+    "theme-u",
+    "theme-w"
+   ]
+  },
+  "drk": {
+   "bytes": 4801,
+   "entries": 119,
+   "file": "drk.json.gz",
+   "printings": 119,
+   "refs": 119,
+   "sha256": "835430664c3578dd45881a557d805e22b33770fa2bbf97b05e812cc9f2178e0a",
+   "types": [
+    "default"
+   ]
+  },
+  "dsk": {
+   "bytes": 34452,
+   "entries": 3127,
+   "file": "dsk.json.gz",
+   "printings": 727,
+   "refs": 3127,
+   "sha256": "9cca17ce2874a0bd3ab592310712e9ee519199aa9998bf2be9d509bf073b114a",
+   "types": [
+    "collector",
+    "collector-sample",
+    "nightmare",
+    "play",
+    "play-arena",
+    "prerelease",
+    "promo",
+    "promo-foil"
+   ]
+  },
+  "dst": {
+   "bytes": 7561,
+   "entries": 405,
+   "file": "dst.json.gz",
+   "printings": 185,
+   "refs": 405,
+   "sha256": "4427e4965e61749643eab8f2c5a06b6609ff4b4b6d7574c004a3147ff1111d29",
+   "types": [
+    "draft",
+    "fat-pack"
+   ]
+  },
+  "dtk": {
+   "bytes": 13442,
+   "entries": 922,
+   "file": "dtk.json.gz",
+   "printings": 304,
+   "refs": 922,
+   "sha256": "d16b9bf0064793deeff10e2a34388156cf7e7f711158601b692cb4e3f5c2b4e0",
+   "types": [
+    "draft",
+    "fat-pack",
+    "prerelease-atarka",
+    "prerelease-dromoka",
+    "prerelease-kolaghan",
+    "prerelease-ojutai",
+    "prerelease-silumgar"
+   ]
+  },
+  "ecl": {
+   "bytes": 30814,
+   "entries": 2868,
+   "file": "ecl.json.gz",
+   "printings": 631,
+   "refs": 2868,
+   "sha256": "a8193a532e6bcd8d34e7ed055d90e32a557aeca1fd8814ef3cd1565ee9457f47",
+   "types": [
+    "collector",
+    "play",
+    "play-arena",
+    "prerelease",
+    "promo",
+    "promo-foil"
+   ]
+  },
+  "eld": {
+   "bytes": 28721,
+   "entries": 2073,
+   "file": "eld.json.gz",
+   "printings": 653,
+   "refs": 2073,
+   "sha256": "33d550a3898bc9a5ca50def41393f35a71aac2d8f7b01768bba69a64c4f36cc4",
+   "types": [
+    "arena",
+    "collector",
+    "draft",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "theme-b",
+    "theme-g",
+    "theme-r",
+    "theme-u",
+    "theme-w"
+   ]
+  },
+  "ema": {
+   "bytes": 11128,
+   "entries": 498,
+   "file": "ema.json.gz",
+   "printings": 249,
+   "refs": 498,
+   "sha256": "b69c539afd645df4c1341d0ac79df38ea990a67aafc9d983787090189252bbc9",
+   "types": [
+    "draft"
+   ]
+  },
+  "emn": {
+   "bytes": 12403,
+   "entries": 501,
+   "file": "emn.json.gz",
+   "printings": 281,
+   "refs": 501,
+   "sha256": "a3bcc5d2295a63183035b556fbb630b76903d68d82688c5af188d6455070bcd5",
+   "types": [
+    "draft",
+    "prerelease"
+   ]
+  },
+  "eoe": {
+   "bytes": 40424,
+   "entries": 3430,
+   "file": "eoe.json.gz",
+   "printings": 872,
+   "refs": 3430,
+   "sha256": "a8172751b3eaed7aeac21cc2afea23766bb3656f3229215a9dc94986fc31c79c",
+   "types": [
+    "collector",
+    "collector-sample",
+    "play",
+    "play-arena",
+    "prerelease",
+    "promo",
+    "promo-foil"
+   ]
+  },
+  "eve": {
+   "bytes": 7941,
+   "entries": 360,
+   "file": "eve.json.gz",
+   "printings": 180,
+   "refs": 360,
+   "sha256": "bd9e57fbd4176777cf6fcf2c90978fb3876185d6c70bb54e759d6993cf9c74ca",
+   "types": [
+    "draft"
+   ]
+  },
+  "exo": {
+   "bytes": 5865,
+   "entries": 143,
+   "file": "exo.json.gz",
+   "printings": 143,
+   "refs": 143,
+   "sha256": "323a6972a469c7b2c03eb9bca772e378e31c2b12e70d7b36c47f7fdff9dc9800",
+   "types": [
+    "draft"
+   ]
+  },
+  "fdn": {
+   "bytes": 30768,
+   "entries": 2717,
+   "file": "fdn.json.gz",
+   "printings": 655,
+   "refs": 2717,
+   "sha256": "a8be5497b3c073b37270f7524e91a2c0731d7f884909ea4ef7251ea3eb8114a9",
+   "types": [
+    "beginner",
+    "collector",
+    "play",
+    "play-arena",
+    "prerelease"
+   ]
+  },
+  "fem": {
+   "bytes": 6675,
+   "entries": 187,
+   "file": "fem.json.gz",
+   "printings": 187,
+   "refs": 187,
+   "sha256": "02ef199b5f30469087699cbe91fa83807766fbacf44c2d1f83ff99087d5e0da1",
+   "types": [
+    "default"
+   ]
+  },
+  "fin": {
+   "bytes": 45920,
+   "entries": 3738,
+   "file": "fin.json.gz",
+   "printings": 891,
+   "refs": 3738,
+   "sha256": "00d588fb7dd539b040b139d92c22925b6de13f157fcd4a3c70ffce90371b3a88",
+   "types": [
+    "bundle-promo",
+    "chocobo-bundle",
+    "chocobo-bundle-scene",
+    "collector",
+    "collector-sample",
+    "play",
+    "play-arena",
+    "prerelease"
+   ]
+  },
+  "fra": {
+   "bytes": 35881,
+   "entries": 9203,
+   "file": "fra.json.gz",
+   "printings": 668,
+   "refs": 9203,
+   "sha256": "c9a5630689761b70c28c02ea13713e985fbc29a9f4ccc5cf8e963c20062565c9",
+   "types": [
+    "collector",
+    "play",
+    "promo",
+    "promo-foil",
+    "secret-lair-bundle-promo"
+   ]
+  },
+  "frf": {
+   "bytes": 9913,
+   "entries": 608,
+   "file": "frf.json.gz",
+   "printings": 221,
+   "refs": 608,
+   "sha256": "45dbe614320e27fd3011bbb4a371eb5cf630a9d918736325ae805633cf963206",
+   "types": [
+    "draft",
+    "prerelease-abzan",
+    "prerelease-jeskai",
+    "prerelease-mardu",
+    "prerelease-sultai",
+    "prerelease-temur"
+   ]
+  },
+  "fut": {
+   "bytes": 8124,
+   "entries": 360,
+   "file": "fut.json.gz",
+   "printings": 180,
+   "refs": 360,
+   "sha256": "a91702aeab287f77ab573e6ef38e32a95df4781c7c61dd7d91231f45f63d03c2",
+   "types": [
+    "draft"
+   ]
+  },
+  "gpt": {
+   "bytes": 6973,
+   "entries": 330,
+   "file": "gpt.json.gz",
+   "printings": 165,
+   "refs": 330,
+   "sha256": "b687f39db3f90f11a9031d2d2d55462eb7ccf79383710c13e48931ff9b903ded",
+   "types": [
+    "draft"
+   ]
+  },
+  "grn": {
+   "bytes": 56286,
+   "entries": 3056,
+   "file": "grn.json.gz",
+   "printings": 1310,
+   "refs": 3056,
+   "sha256": "8aea617ef5c388ff6deeeaf9d1638ee700ac1d6eb3ce18faf6b3bb00e039ca05",
+   "types": [
+    "arena",
+    "draft",
+    "prerelease-boros",
+    "prerelease-dimir",
+    "prerelease-golgari",
+    "prerelease-izzet",
+    "prerelease-selesnya",
+    "showdown",
+    "theme-boros",
+    "theme-dimir",
+    "theme-golgari",
+    "theme-izzet",
+    "theme-selesnya"
+   ]
+  },
+  "gtc": {
+   "bytes": 12466,
+   "entries": 1162,
+   "file": "gtc.json.gz",
+   "printings": 274,
+   "refs": 1162,
+   "sha256": "6ca40d8af20db73e4a37dc17274f95eddd953927548c33920218870f54eea62f",
+   "types": [
+    "draft",
+    "prerelease-boros",
+    "prerelease-dimir",
+    "prerelease-gruul",
+    "prerelease-orzhov",
+    "prerelease-simic",
+    "six"
+   ]
+  },
+  "hbg": {
+   "bytes": 11642,
+   "entries": 266,
+   "file": "hbg.json.gz",
+   "printings": 266,
+   "refs": 266,
+   "sha256": "ad6624db5583e4474aee1e4bc5dae9f120460c409f7397233dcec23f1ecee095",
+   "types": [
+    "arena"
+   ]
+  },
+  "hml": {
+   "bytes": 5458,
+   "entries": 140,
+   "file": "hml.json.gz",
+   "printings": 140,
+   "refs": 140,
+   "sha256": "4d6cfa018e5797ea48d4d0866a33a3f08938a4b6f4bb06535cc937e89d335779",
+   "types": [
+    "default"
+   ]
+  },
+  "hob": {
+   "bytes": 19624,
+   "entries": 1321,
+   "file": "hob.json.gz",
+   "printings": 418,
+   "refs": 1321,
+   "sha256": "3043498c3be1058a099ae169520a98d0cae67ff0a91cf522c9199897d2339402",
+   "types": [
+    "box-topper",
+    "collector",
+    "play",
+    "prerelease"
+   ]
+  },
+  "hou": {
+   "bytes": 74848,
+   "entries": 2706,
+   "file": "hou.json.gz",
+   "printings": 1825,
+   "refs": 2706,
+   "sha256": "12cb0c13c03595891dd16ceb4848156adb25ae9e6e095ba829492b6b32759097",
+   "types": [
+    "draft",
+    "prerelease",
+    "showdown"
+   ]
+  },
+  "ice": {
+   "bytes": 14868,
+   "entries": 746,
+   "file": "ice.json.gz",
+   "printings": 383,
+   "refs": 746,
+   "sha256": "f4050e32dbd9ada7d7bff7fc39525bf6a8d8eba147cbffe0a661491021907a32",
+   "types": [
+    "default",
+    "starter"
+   ]
+  },
+  "iko": {
+   "bytes": 33317,
+   "entries": 3598,
+   "file": "iko.json.gz",
+   "printings": 714,
+   "refs": 3598,
+   "sha256": "20a29d5e59b7b46ae7d5e980cbb57d0897ca003893663e6145d2148dd4a9c9d4",
+   "types": [
+    "arena",
+    "box-topper",
+    "box-topper-jp",
+    "collector",
+    "collector-jp",
+    "draft",
+    "jp",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "theme-b",
+    "theme-g",
+    "theme-monsters",
+    "theme-r",
+    "theme-u",
+    "theme-w"
+   ]
+  },
+  "ima": {
+   "bytes": 11206,
+   "entries": 498,
+   "file": "ima.json.gz",
+   "printings": 249,
+   "refs": 498,
+   "sha256": "259d2baadbda2c1a849366606c524d556c2d92c54cb71ffbf7a26204846f33fa",
+   "types": [
+    "draft"
+   ]
+  },
+  "inr": {
+   "bytes": 23480,
+   "entries": 1804,
+   "file": "inr.json.gz",
+   "printings": 491,
+   "refs": 1804,
+   "sha256": "79fc7c984bf7c1b73765d567a673bb17a5176b2cdf77ff693839d75f71855ccb",
+   "types": [
+    "collector",
+    "play"
+   ]
+  },
+  "inv": {
+   "bytes": 14225,
+   "entries": 1510,
+   "file": "inv.json.gz",
+   "printings": 350,
+   "refs": 1510,
+   "sha256": "aa356649055771a337cfe541e1a8f356b989a57018999b78b05ea3344595646c",
+   "types": [
+    "draft",
+    "fat-pack",
+    "tournament"
+   ]
+  },
+  "isd": {
+   "bytes": 12184,
+   "entries": 792,
+   "file": "isd.json.gz",
+   "printings": 264,
+   "refs": 792,
+   "sha256": "3514544bb7051b033e5a0fef0205bbdbc58a58235e1d2dee6a890bab0fea53f8",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "j22": {
+   "bytes": 35391,
+   "entries": 1957,
+   "file": "j22.json.gz",
+   "printings": 834,
+   "refs": 1957,
+   "sha256": "57a1264eb66575b2e9fc81a9e446ee1e9312d220645cae4a623acbb4e0c248cb",
+   "types": [
+    "jumpstart"
+   ]
+  },
+  "j25": {
+   "bytes": 33531,
+   "entries": 1959,
+   "file": "j25.json.gz",
+   "printings": 779,
+   "refs": 1959,
+   "sha256": "a3d145fcfd004a522e28ed41e249f53a6f5c7245568d62822100065f2da3b160",
+   "types": [
+    "jumpstart"
+   ]
+  },
+  "jmp": {
+   "bytes": 28561,
+   "entries": 2046,
+   "file": "jmp.json.gz",
+   "printings": 665,
+   "refs": 2046,
+   "sha256": "632f2bd52826269096e068600544b57c45f0052237cae08dc48da05f1d0c6e53",
+   "types": [
+    "jumpstart"
+   ]
+  },
+  "jou": {
+   "bytes": 9189,
+   "entries": 544,
+   "file": "jou.json.gz",
+   "printings": 200,
+   "refs": 544,
+   "sha256": "766b7640574440e7726ae6243946b4ba46d2cdfe1e0e43a29440a5251cb8ca84",
+   "types": [
+    "draft",
+    "prerelease-glory",
+    "prerelease-intellect",
+    "prerelease-pursuit",
+    "prerelease-tyranny",
+    "prerelease-war"
+   ]
+  },
+  "jud": {
+   "bytes": 6762,
+   "entries": 361,
+   "file": "jud.json.gz",
+   "printings": 163,
+   "refs": 361,
+   "sha256": "0c2af83829c5da9edc8c52310efe83a7c8629b6e0ec85d9b4287e0956625e74f",
+   "types": [
+    "draft",
+    "fat-pack"
+   ]
+  },
+  "khm": {
+   "bytes": 44936,
+   "entries": 3708,
+   "file": "khm.json.gz",
+   "printings": 988,
+   "refs": 3708,
+   "sha256": "e750845deb8b3cc5d2cab0240e11c8b7788b2ede3c3367e55eddd489c81ccdda",
+   "types": [
+    "arena",
+    "collector",
+    "draft",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "set",
+    "theme-b",
+    "theme-g",
+    "theme-r",
+    "theme-u",
+    "theme-vikings",
+    "theme-w"
+   ]
+  },
+  "kld": {
+   "bytes": 50995,
+   "entries": 3264,
+   "file": "kld.json.gz",
+   "printings": 1129,
+   "refs": 3264,
+   "sha256": "894368ba5363dfe7a16b0b999c095a7f0314536767bb74184ec0771d1122417c",
+   "types": [
+    "buyabox",
+    "draft",
+    "prerelease",
+    "showdown"
+   ]
+  },
+  "klr": {
+   "bytes": 11907,
+   "entries": 286,
+   "file": "klr.json.gz",
+   "printings": 286,
+   "refs": 286,
+   "sha256": "781e1d8decf4070bac5e96560e058fadf8389131cb3d78093ad4d3fcab55c207",
+   "types": [
+    "arena"
+   ]
+  },
+  "ktk": {
+   "bytes": 14501,
+   "entries": 1107,
+   "file": "ktk.json.gz",
+   "printings": 333,
+   "refs": 1107,
+   "sha256": "00ad2d3f5d7bdfb84b0c81118c5edcdf81bb7053fa23aa2c6db98f44f4bb1c64",
+   "types": [
+    "arena",
+    "draft",
+    "prerelease-abzan",
+    "prerelease-jeskai",
+    "prerelease-mardu",
+    "prerelease-sultai",
+    "prerelease-temur"
+   ]
+  },
+  "lci": {
+   "bytes": 48204,
+   "entries": 3601,
+   "file": "lci.json.gz",
+   "printings": 1036,
+   "refs": 3601,
+   "sha256": "bc93b2dab6aa687e459d4305d9a125db942f6536a363abdc1df1c5eb9d02413c",
+   "types": [
+    "arena",
+    "box-topper",
+    "box-topper-foil",
+    "bundle-promo",
+    "bundle-promo-foil",
+    "collector",
+    "collector-sample",
+    "draft",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "set"
+   ]
+  },
+  "lea": {
+   "bytes": 11551,
+   "entries": 614,
+   "file": "lea.json.gz",
+   "printings": 295,
+   "refs": 614,
+   "sha256": "a445fed31c82426f494b53528d0215ed2536e26ac3ff2b8bac08bdc925b5b771",
+   "types": [
+    "default",
+    "starter"
+   ]
+  },
+  "leb": {
+   "bytes": 11751,
+   "entries": 636,
+   "file": "leb.json.gz",
+   "printings": 302,
+   "refs": 636,
+   "sha256": "ec95c967ff27e253ae802ad3e17cdcf5739fc0f4ee15bba742ea4ff580c184d4",
+   "types": [
+    "default",
+    "starter"
+   ]
+  },
+  "leg": {
+   "bytes": 12437,
+   "entries": 310,
+   "file": "leg.json.gz",
+   "printings": 310,
+   "refs": 310,
+   "sha256": "798dca22ecdc234f103ccd00abb72f57759692ebfe78fe75b7281afa29497848",
+   "types": [
+    "default"
+   ]
+  },
+  "lgn": {
+   "bytes": 6860,
+   "entries": 365,
+   "file": "lgn.json.gz",
+   "printings": 165,
+   "refs": 365,
+   "sha256": "875e7201732d3dac89b2ac689432cf4037e71ecd157710d5719bf9e3fb3726fe",
+   "types": [
+    "draft",
+    "fat-pack"
+   ]
+  },
+  "lrw": {
+   "bytes": 13195,
+   "entries": 1184,
+   "file": "lrw.json.gz",
+   "printings": 301,
+   "refs": 1184,
+   "sha256": "42dbc30b1a6320e94797626886fdb6f0cc78ae571f2b319d2d4656c120be737f",
+   "types": [
+    "draft",
+    "tournament"
+   ]
+  },
+  "ltr": {
+   "bytes": 69793,
+   "entries": 4859,
+   "file": "ltr.json.gz",
+   "printings": 1552,
+   "refs": 4859,
+   "sha256": "47ee47cdf490f3252243773cf2236f7bb63df64aba6bbab060745c7e2ec06802",
+   "types": [
+    "arena",
+    "box-topper",
+    "collector",
+    "collector-sample",
+    "collector-special",
+    "draft",
+    "jumpstart",
+    "jumpstart-v2",
+    "prerelease",
+    "set"
+   ]
+  },
+  "m10": {
+   "bytes": 10821,
+   "entries": 747,
+   "file": "m10.json.gz",
+   "printings": 249,
+   "refs": 747,
+   "sha256": "3b0d2a24549084d3f42195d9469641e68154548bb22d843d78ddbbb38c3c2a58",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "m11": {
+   "bytes": 10772,
+   "entries": 747,
+   "file": "m11.json.gz",
+   "printings": 249,
+   "refs": 747,
+   "sha256": "fc39cf187c7c1cfedb15a121b4200477f11a68d19ba75d17df2ba8275a8b5f5e",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "m12": {
+   "bytes": 10750,
+   "entries": 747,
+   "file": "m12.json.gz",
+   "printings": 249,
+   "refs": 747,
+   "sha256": "3a2f1690b44f7e89954926e73c62608dea43f4f13a630762b7e967ee7ca37ba6",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "m13": {
+   "bytes": 10955,
+   "entries": 908,
+   "file": "m13.json.gz",
+   "printings": 249,
+   "refs": 908,
+   "sha256": "cc91b33e70f5d45ac16b2e528cfcf5f9eac5c4a69809881cda5fc3a3ec0daf9b",
+   "types": [
+    "draft",
+    "duelspromo",
+    "six"
+   ]
+  },
+  "m14": {
+   "bytes": 10900,
+   "entries": 908,
+   "file": "m14.json.gz",
+   "printings": 249,
+   "refs": 908,
+   "sha256": "e69dffc94af442c930916c7574eaba7ce2b70c6eef90320f9229037cc1ddc843",
+   "types": [
+    "draft",
+    "duelspromo",
+    "six"
+   ]
+  },
+  "m15": {
+   "bytes": 12457,
+   "entries": 1093,
+   "file": "m15.json.gz",
+   "printings": 274,
+   "refs": 1093,
+   "sha256": "9cb9a4b4fcdadf50cd5a54b508cc5215ade802bd721cdd2ee5efb2f28e4f7c76",
+   "types": [
+    "draft",
+    "duelspromo",
+    "prerelease-ambition",
+    "prerelease-ferocity",
+    "prerelease-guile",
+    "prerelease-strength",
+    "prerelease-valor"
+   ]
+  },
+  "m19": {
+   "bytes": 82032,
+   "entries": 3338,
+   "file": "m19.json.gz",
+   "printings": 1997,
+   "refs": 3338,
+   "sha256": "59db22b308402f83e28fdb15368b225d7523ab7e1a931de76a0d3cf1461670da",
+   "types": [
+    "arena",
+    "draft",
+    "prerelease",
+    "showdown"
+   ]
+  },
+  "m20": {
+   "bytes": 25365,
+   "entries": 1703,
+   "file": "m20.json.gz",
+   "printings": 583,
+   "refs": 1703,
+   "sha256": "2f90454bf5697606d08f82cf026a87c0c9a29d56e46ee4cefa870c345846a8f7",
+   "types": [
+    "arena",
+    "draft",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "theme-b",
+    "theme-g",
+    "theme-r",
+    "theme-u",
+    "theme-w"
+   ]
+  },
+  "m21": {
+   "bytes": 27667,
+   "entries": 1833,
+   "file": "m21.json.gz",
+   "printings": 633,
+   "refs": 1833,
+   "sha256": "645a64c17827c3c95efa06637fd4849d898ca6394467546bccf5a385984cedd8",
+   "types": [
+    "arena",
+    "collector",
+    "draft",
+    "prerelease",
+    "promo",
+    "promo-foil"
+   ]
+  },
+  "mat": {
+   "bytes": 24654,
+   "entries": 844,
+   "file": "mat.json.gz",
+   "printings": 574,
+   "refs": 844,
+   "sha256": "704f19824b61e56324e6de8c0fe8ee6e0dc637aad2404f715620522ffea6515a",
+   "types": [
+    "arena",
+    "collector",
+    "default"
+   ]
+  },
+  "mb1": {
+   "bytes": 83280,
+   "entries": 5421,
+   "file": "mb1.json.gz",
+   "printings": 2060,
+   "refs": 5421,
+   "sha256": "e2884f493d72c2c3de399e2405f8258e7a6b6875f1c1fdbf5a608ca0254b1b3b",
+   "types": [
+    "convention",
+    "convention-2021",
+    "draft"
+   ]
+  },
+  "mb2": {
+   "bytes": 75640,
+   "entries": 1935,
+   "file": "mb2.json.gz",
+   "printings": 1836,
+   "refs": 1935,
+   "sha256": "befb222b2c3d0b0f1f48da326ba31be9e5e7aa2a8daf85a91b0724ff2b9ede5e",
+   "types": [
+    "draft"
+   ]
+  },
+  "mbc": {
+   "bytes": 97052,
+   "entries": 2525,
+   "file": "mbc.json.gz",
+   "printings": 2346,
+   "refs": 2525,
+   "sha256": "9a667157f8f1c9bdde43edc2a72096266db2ab60621172f6ac10f5658689613c",
+   "types": [
+    "draft"
+   ]
+  },
+  "mbs": {
+   "bytes": 7214,
+   "entries": 941,
+   "file": "mbs.json.gz",
+   "printings": 155,
+   "refs": 941,
+   "sha256": "7c09fc8e1d95f09644b983ff702ac209a6e0f2aebbf1f4aa53c70ae837235974",
+   "types": [
+    "draft",
+    "mirran",
+    "phyrexian",
+    "six"
+   ]
+  },
+  "me1": {
+   "bytes": 8467,
+   "entries": 390,
+   "file": "me1.json.gz",
+   "printings": 195,
+   "refs": 390,
+   "sha256": "e14067f2a6c082657925729705afb9ce5b9eef5d2b4c39df34750ba766a195f9",
+   "types": [
+    "mtgo"
+   ]
+  },
+  "me2": {
+   "bytes": 10579,
+   "entries": 490,
+   "file": "me2.json.gz",
+   "printings": 245,
+   "refs": 490,
+   "sha256": "91760a83da9f83227a3b52703adce03a3d0c9d19721605e88de42620cc397f69",
+   "types": [
+    "mtgo"
+   ]
+  },
+  "me3": {
+   "bytes": 10123,
+   "entries": 460,
+   "file": "me3.json.gz",
+   "printings": 230,
+   "refs": 460,
+   "sha256": "351ba233134b0bb4942a55a0e81c0a5f724f2b87aa1afd88668fca873a89cc9c",
+   "types": [
+    "mtgo"
+   ]
+  },
+  "me4": {
+   "bytes": 11482,
+   "entries": 538,
+   "file": "me4.json.gz",
+   "printings": 269,
+   "refs": 538,
+   "sha256": "ea815d91969f013449c6ab1b58a1833e94b984c3996a631ac9c5209a239b32da",
+   "types": [
+    "mtgo"
+   ]
+  },
+  "mh1": {
+   "bytes": 11497,
+   "entries": 508,
+   "file": "mh1.json.gz",
+   "printings": 254,
+   "refs": 508,
+   "sha256": "326efe34955eb3ceba2988a6b08dfc7376935e331e96df86a0d3a25751d382d7",
+   "types": [
+    "draft"
+   ]
+  },
+  "mh2": {
+   "bytes": 43590,
+   "entries": 3308,
+   "file": "mh2.json.gz",
+   "printings": 910,
+   "refs": 3308,
+   "sha256": "b26172edf2469ab461539eece298f354ef74416ae7c43308059a815c8d523ad6",
+   "types": [
+    "collector",
+    "draft",
+    "prerelease",
+    "set"
+   ]
+  },
+  "mh3": {
+   "bytes": 34721,
+   "entries": 3315,
+   "file": "mh3.json.gz",
+   "printings": 691,
+   "refs": 3315,
+   "sha256": "4fc19fb82caacbde03c263285bfe87460a974c8b87478e2a993834104ea56fc6",
+   "types": [
+    "collector",
+    "collector-sample",
+    "play",
+    "play-arena",
+    "prerelease"
+   ]
+  },
+  "mid": {
+   "bytes": 47413,
+   "entries": 3373,
+   "file": "mid.json.gz",
+   "printings": 1005,
+   "refs": 3373,
+   "sha256": "ec91f401542c1b916afe67fcd67e6c5f4f29a28fbc290392a0baf4df2bc12007",
+   "types": [
+    "arena",
+    "collector",
+    "draft",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "set",
+    "theme-b",
+    "theme-g",
+    "theme-r",
+    "theme-u",
+    "theme-w",
+    "theme-werewolves"
+   ]
+  },
+  "mir": {
+   "bytes": 13815,
+   "entries": 680,
+   "file": "mir.json.gz",
+   "printings": 350,
+   "refs": 680,
+   "sha256": "4a010661020b09befa67c9ccf708ef3a98670192563f60d69413d952680377ff",
+   "types": [
+    "draft",
+    "starter"
+   ]
+  },
+  "mkm": {
+   "bytes": 39459,
+   "entries": 3284,
+   "file": "mkm.json.gz",
+   "printings": 837,
+   "refs": 3284,
+   "sha256": "b3a5df8ce6db9addf81b222cde1a6a8f28dec87a733a4bc9c7a9f143639edf33",
+   "types": [
+    "collector",
+    "collector-sample",
+    "play",
+    "play-arena",
+    "prerelease",
+    "promo",
+    "promo-foil"
+   ]
+  },
+  "mm2": {
+   "bytes": 11218,
+   "entries": 498,
+   "file": "mm2.json.gz",
+   "printings": 249,
+   "refs": 498,
+   "sha256": "e27e47bafc91ca1143858230d33baf54b9affe3d1731435a12ba7a3d7ce9777e",
+   "types": [
+    "draft"
+   ]
+  },
+  "mm3": {
+   "bytes": 11063,
+   "entries": 498,
+   "file": "mm3.json.gz",
+   "printings": 249,
+   "refs": 498,
+   "sha256": "afd76e9eb6722d13e56eb3141dc4ee1458baf575576c85493957f41c14544927",
+   "types": [
+    "draft"
+   ]
+  },
+  "mma": {
+   "bytes": 10267,
+   "entries": 458,
+   "file": "mma.json.gz",
+   "printings": 229,
+   "refs": 458,
+   "sha256": "3788c8fb2907bd0a2838c8f6a2663e944ae1e3478a8e8317d6e39db927b943b4",
+   "types": [
+    "draft"
+   ]
+  },
+  "mmq": {
+   "bytes": 14182,
+   "entries": 1401,
+   "file": "mmq.json.gz",
+   "printings": 350,
+   "refs": 1401,
+   "sha256": "a8aeccff2fb609f6d8ae56d2bc49828abe735596c961898f06eb2d15d2956bf5",
+   "types": [
+    "draft",
+    "fat-pack",
+    "tournament"
+   ]
+  },
+  "mom": {
+   "bytes": 59426,
+   "entries": 4348,
+   "file": "mom.json.gz",
+   "printings": 1292,
+   "refs": 4348,
+   "sha256": "039698fad2263380ea60d0949e0f5ffdc01da3abbfb7276f20daa7f51f654bc6",
+   "types": [
+    "arena",
+    "collector",
+    "collector-sample",
+    "draft",
+    "jumpstart",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "set"
+   ]
+  },
+  "mor": {
+   "bytes": 6849,
+   "entries": 300,
+   "file": "mor.json.gz",
+   "printings": 150,
+   "refs": 300,
+   "sha256": "68c4e8c3b0202fc700e4a6ca0afb095f99d91db2da58a223d7f9c357bf0275ef",
+   "types": [
+    "draft"
+   ]
+  },
+  "mrd": {
+   "bytes": 12557,
+   "entries": 1334,
+   "file": "mrd.json.gz",
+   "printings": 306,
+   "refs": 1334,
+   "sha256": "2fbfcc4b8860c4e6dd479772056daa75245c6f9317dde8bf19a5ba9d88b24a95",
+   "types": [
+    "draft",
+    "fat-pack",
+    "tournament"
+   ]
+  },
+  "msh": {
+   "bytes": 50293,
+   "entries": 4155,
+   "file": "msh.json.gz",
+   "printings": 1000,
+   "refs": 4155,
+   "sha256": "19f767b09d65226dd7f5f0fe2b3744a6c60c2e3d95491396da70f337d5ef88a7",
+   "types": [
+    "collector",
+    "jumpstart",
+    "play",
+    "play-arena",
+    "prerelease"
+   ]
+  },
+  "nem": {
+   "bytes": 6609,
+   "entries": 361,
+   "file": "nem.json.gz",
+   "printings": 163,
+   "refs": 361,
+   "sha256": "76d40f2931cd82cf3d76cb7a4c9ca70046bdad16ab522df728b2c6c69430fd28",
+   "types": [
+    "draft",
+    "fat-pack"
+   ]
+  },
+  "neo": {
+   "bytes": 52834,
+   "entries": 4254,
+   "file": "neo.json.gz",
+   "printings": 1123,
+   "refs": 4254,
+   "sha256": "678e5b60e181d295197852bed383eb0dba499fe905397cc24bf013ec6f6d6eba",
+   "types": [
+    "arena",
+    "collector",
+    "draft",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "set",
+    "theme-b",
+    "theme-g",
+    "theme-ninjas",
+    "theme-r",
+    "theme-u",
+    "theme-w"
+   ]
+  },
+  "nph": {
+   "bytes": 7860,
+   "entries": 525,
+   "file": "nph.json.gz",
+   "printings": 175,
+   "refs": 525,
+   "sha256": "5ba447ed893128b19d3c32b41b41a3c47e84631679282eb332634a4be4133542",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "ody": {
+   "bytes": 14325,
+   "entries": 1510,
+   "file": "ody.json.gz",
+   "printings": 350,
+   "refs": 1510,
+   "sha256": "ba840eee8140ce1222323aba50dec93fba1bba0bbae308c9443817db8768b379",
+   "types": [
+    "draft",
+    "fat-pack",
+    "tournament"
+   ]
+  },
+  "ogw": {
+   "bytes": 12024,
+   "entries": 492,
+   "file": "ogw.json.gz",
+   "printings": 283,
+   "refs": 492,
+   "sha256": "064e52e7570158ae57b5dd0378983046b5411c67e4215cc6e929e085e473a2a8",
+   "types": [
+    "draft",
+    "prerelease"
+   ]
+  },
+  "om1": {
+   "bytes": 11277,
+   "entries": 599,
+   "file": "om1.json.gz",
+   "printings": 233,
+   "refs": 599,
+   "sha256": "aaa1d4d678d927b89ecaafdaf199108f7680807c27075428d6f189a1300bb318",
+   "types": [
+    "arena"
+   ]
+  },
+  "one": {
+   "bytes": 46142,
+   "entries": 3690,
+   "file": "one.json.gz",
+   "printings": 992,
+   "refs": 3690,
+   "sha256": "fa10a7a07592e2b135136161612eb13987ffea200aa7671aa59738f5346f60cc",
+   "types": [
+    "arena",
+    "collector",
+    "collector-sample",
+    "compleat",
+    "draft",
+    "jumpstart",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "set"
+   ]
+  },
+  "ons": {
+   "bytes": 14564,
+   "entries": 1510,
+   "file": "ons.json.gz",
+   "printings": 351,
+   "refs": 1510,
+   "sha256": "e036e8e48c05c3fc4f46eab48ff9fad27b1941b5a55e6aad355f35f840fd24d9",
+   "types": [
+    "draft",
+    "fat-pack",
+    "tournament"
+   ]
+  },
+  "ori": {
+   "bytes": 13838,
+   "entries": 733,
+   "file": "ori.json.gz",
+   "printings": 312,
+   "refs": 733,
+   "sha256": "0c8554f0c7eff916ecb1aa4bfcaff14e0a0f65b2b1dae14f108afca5bdaca042",
+   "types": [
+    "draft",
+    "prerelease-chandra",
+    "prerelease-gideon",
+    "prerelease-jace",
+    "prerelease-liliana",
+    "prerelease-nissa"
+   ]
+  },
+  "otj": {
+   "bytes": 39101,
+   "entries": 3431,
+   "file": "otj.json.gz",
+   "printings": 858,
+   "refs": 3431,
+   "sha256": "0bdb06651179ea2d5cd6c6b54c800ba37fbf67435909e20b9cc4b7d64ffc029c",
+   "types": [
+    "collector",
+    "collector-sample",
+    "play",
+    "play-arena",
+    "prerelease",
+    "promo",
+    "promo-foil"
+   ]
+  },
+  "p02": {
+   "bytes": 6446,
+   "entries": 165,
+   "file": "p02.json.gz",
+   "printings": 165,
+   "refs": 165,
+   "sha256": "ca328ea6800e84d159660c3180fa165b994f6e4f79733f08e28795ab37460a19",
+   "types": [
+    "default"
+   ]
+  },
+  "pcy": {
+   "bytes": 6659,
+   "entries": 361,
+   "file": "pcy.json.gz",
+   "printings": 163,
+   "refs": 361,
+   "sha256": "cac718b9d92afb93a08a492fe9435e7d2b977f729621ed516dffcd42d494bacf",
+   "types": [
+    "draft",
+    "fat-pack"
+   ]
+  },
+  "pio": {
+   "bytes": 17765,
+   "entries": 1758,
+   "file": "pio.json.gz",
+   "printings": 398,
+   "refs": 1758,
+   "sha256": "5ebaa279438fcdbf648826176d984c726a3ebfaf028c2c0b28c1f003fbd9938d",
+   "types": [
+    "arena-1",
+    "arena-2",
+    "arena-3"
+   ]
+  },
+  "pip": {
+   "bytes": 45199,
+   "entries": 2789,
+   "file": "pip.json.gz",
+   "printings": 1063,
+   "refs": 2789,
+   "sha256": "2f35bd371a1f7751a387cdb64b570b087241120496e2777c2208ea8ddf200ab1",
+   "types": [
+    "collector",
+    "collector-sample"
+   ]
+  },
+  "plc": {
+   "bytes": 7381,
+   "entries": 330,
+   "file": "plc.json.gz",
+   "printings": 165,
+   "refs": 330,
+   "sha256": "563eb7ffb8f577a64cfcbfddf2637b32f8cb5064bf306d15a91b1d893847cf72",
+   "types": [
+    "draft"
+   ]
+  },
+  "pls": {
+   "bytes": 6796,
+   "entries": 364,
+   "file": "pls.json.gz",
+   "printings": 166,
+   "refs": 364,
+   "sha256": "0b57da5dfd94d07885f592a69a45f50898337843c621c4c6d99bed5f18dd0664",
+   "types": [
+    "draft",
+    "fat-pack"
+   ]
+  },
+  "por": {
+   "bytes": 8315,
+   "entries": 215,
+   "file": "por.json.gz",
+   "printings": 215,
+   "refs": 215,
+   "sha256": "75c68fcf075703e1b03dce3f7774772453c0753c2cc8603574e65a27e0f16db8",
+   "types": [
+    "default"
+   ]
+  },
+  "ptk": {
+   "bytes": 7249,
+   "entries": 180,
+   "file": "ptk.json.gz",
+   "printings": 180,
+   "refs": 180,
+   "sha256": "fe2fea1f0e022ea87e666b5c2606083ead671c90e0d146145b117d4118230a93",
+   "types": [
+    "default"
+   ]
+  },
+  "rav": {
+   "bytes": 12910,
+   "entries": 1204,
+   "file": "rav.json.gz",
+   "printings": 306,
+   "refs": 1204,
+   "sha256": "fb767212b76d3086ac2e222a30a8f1406cc528429cad03044cbe42231ee1229b",
+   "types": [
+    "draft",
+    "tournament"
+   ]
+  },
+  "ren": {
+   "bytes": 4980,
+   "entries": 122,
+   "file": "ren.json.gz",
+   "printings": 122,
+   "refs": 122,
+   "sha256": "9c239db6fd6a57bf9187efe02692a1fb1651d9b08c3d9ddcb023d41187f3b4fd",
+   "types": [
+    "default"
+   ]
+  },
+  "rin": {
+   "bytes": 2891,
+   "entries": 69,
+   "file": "rin.json.gz",
+   "printings": 69,
+   "refs": 69,
+   "sha256": "8adba437b9126ff18ca849c24e9b9329364a40546600c554f27dd140c7e280d0",
+   "types": [
+    "default"
+   ]
+  },
+  "rix": {
+   "bytes": 59662,
+   "entries": 2389,
+   "file": "rix.json.gz",
+   "printings": 1447,
+   "refs": 2389,
+   "sha256": "f276426713c3b7657149b9008b1ae6ef12117fc1e273de8b64389199c94c842f",
+   "types": [
+    "arena",
+    "draft",
+    "prerelease",
+    "showdown"
+   ]
+  },
+  "rna": {
+   "bytes": 67156,
+   "entries": 3823,
+   "file": "rna.json.gz",
+   "printings": 1574,
+   "refs": 3823,
+   "sha256": "2baa5b7bbd14721f010ac580c8dacbc42f58436b14c8dd37d6cafbe40d678c34",
+   "types": [
+    "arena",
+    "collector",
+    "draft",
+    "prerelease-azorius",
+    "prerelease-gruul",
+    "prerelease-orzhov",
+    "prerelease-rakdos",
+    "prerelease-simic",
+    "showdown",
+    "theme-azorius",
+    "theme-gruul",
+    "theme-orzhov",
+    "theme-rakdos",
+    "theme-simic"
+   ]
+  },
+  "roe": {
+   "bytes": 11034,
+   "entries": 744,
+   "file": "roe.json.gz",
+   "printings": 248,
+   "refs": 744,
+   "sha256": "06b60a76e448163d42cf0a3b6580974ac593e0fe1393d570ae13af9bc005311c",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "rtr": {
+   "bytes": 12519,
+   "entries": 1193,
+   "file": "rtr.json.gz",
+   "printings": 274,
+   "refs": 1193,
+   "sha256": "8a73f9c7142dc0ccfccc15668b54404426274d1580060f79d7d54b6f44f24ad2",
+   "types": [
+    "draft",
+    "prerelease-azorius",
+    "prerelease-golgari",
+    "prerelease-izzet",
+    "prerelease-rakdos",
+    "prerelease-selesnya",
+    "six"
+   ]
+  },
+  "rvr": {
+   "bytes": 21914,
+   "entries": 1460,
+   "file": "rvr.json.gz",
+   "printings": 530,
+   "refs": 1460,
+   "sha256": "f47be75aa04032c9caa0cf8c70fa9bcf885960ef956a32b91ac92bf035c50f88",
+   "types": [
+    "collector",
+    "draft"
+   ]
+  },
+  "s99": {
+   "bytes": 6414,
+   "entries": 165,
+   "file": "s99.json.gz",
+   "printings": 165,
+   "refs": 165,
+   "sha256": "11232c3a9e981f0b77133a3ca0475fd587533b6645c3096dc4a132103e6a8a8e",
+   "types": [
+    "default"
+   ]
+  },
+  "scg": {
+   "bytes": 6793,
+   "entries": 361,
+   "file": "scg.json.gz",
+   "printings": 163,
+   "refs": 361,
+   "sha256": "89e1a518a9e927d299e28590f3c39502adf482261282a48329d02a0d686c751e",
+   "types": [
+    "draft",
+    "fat-pack"
+   ]
+  },
+  "shm": {
+   "bytes": 13296,
+   "entries": 1184,
+   "file": "shm.json.gz",
+   "printings": 302,
+   "refs": 1184,
+   "sha256": "2cd47987f5ff52e299fb663d86b188e038816b6eb66d6d8f40b1c3451fbfb3e4",
+   "types": [
+    "draft",
+    "tournament"
+   ]
+  },
+  "sir": {
+   "bytes": 15280,
+   "entries": 1180,
+   "file": "sir.json.gz",
+   "printings": 352,
+   "refs": 1180,
+   "sha256": "fcb0d9ba34d337f5e629fedf7899748742d28c342739c45e6be38d5a5df7c2ff",
+   "types": [
+    "arena-1",
+    "arena-2",
+    "arena-3",
+    "arena-4"
+   ]
+  },
+  "sld": {
+   "bytes": 24219,
+   "entries": 2193,
+   "file": "sld.json.gz",
+   "printings": 354,
+   "refs": 2193,
+   "sha256": "4c1c5061c1ede74b5c6f180b34696927260ee017977f34515f88ef51220bb253",
+   "types": [
+    "baseball-signed",
+    "blueprint-mk1",
+    "blueprint-mk2",
+    "bonus-a-box-of-rocks",
+    "bonus-a-devastation-of-dragons",
+    "bonus-absolute-annihilation",
+    "bonus-adventures-of-the-little-witch",
+    "bonus-aether-drifters",
+    "bonus-alien-auroras",
+    "bonus-animar-and-friends",
+    "bonus-arcade-racers",
+    "bonus-artist-series-johannes-voss",
+    "bonus-artist-series-johannes-voss-foil-drop",
+    "bonus-artist-series-mark-poole",
+    "bonus-artist-series-thomas-baxa",
+    "bonus-artist-series-thomas-baxa-foil-drop",
+    "bonus-astrology-aquarius",
+    "bonus-astrology-aries",
+    "bonus-astrology-cancer",
+    "bonus-astrology-capricorn",
+    "bonus-astrology-gemini",
+    "bonus-astrology-leo",
+    "bonus-astrology-libra",
+    "bonus-astrology-pisces",
+    "bonus-astrology-sagittarius",
+    "bonus-astrology-scorpio",
+    "bonus-astrology-taurus",
+    "bonus-astrology-virgo",
+    "bonus-avatar-the-last-airbender-a-lot-to-learn",
+    "bonus-avatar-the-last-airbender-everything-changed",
+    "bonus-avatar-the-last-airbender-my-cabbages",
+    "bonus-avatar-the-last-airbender-one-with-the-elements",
+    "bonus-avatar-the-last-airbender-the-ember-island-players",
+    "bonus-bad-to-the-bones",
+    "bonus-bitterblossom-dreams",
+    "bonus-black-is-magic",
+    "bonus-brain-dead-new-earth-mentality",
+    "bonus-buggin-out",
+    "bonus-calling-all-hydra-heads",
+    "bonus-cats-of-chaos",
+    "bonus-city-styles",
+    "bonus-city-styles-2-dressed-to-kill",
+    "bonus-cool-ocean-breeze",
+    "bonus-cosmic-chill-by-robin-eisenberg",
+    "bonus-culture-shocks-bant",
+    "bonus-culture-shocks-esper",
+    "bonus-culture-shocks-grixis",
+    "bonus-culture-shocks-jund",
+    "bonus-culture-shocks-naya",
+    "bonus-dan-frazier-allied-signets",
+    "bonus-dan-frazier-allied-signets-etched",
+    "bonus-dan-frazier-enemy-signets",
+    "bonus-dan-frazier-enemy-signets-etched",
+    "bonus-death-is-temporary-metal-is-forever",
+    "bonus-deceptive-divination",
+    "bonus-diabolical-dioramas",
+    "bonus-draw-your-hand",
+    "bonus-dreaming-darkly",
+    "bonus-dwarf-fortress-create-new-world-foil",
+    "bonus-dwarf-fortress-create-new-world-nonfoil",
+    "bonus-eldraine-wonderland",
+    "bonus-everything-is-on-fire",
+    "bonus-explosion-sounds",
+    "bonus-faerie-faerie-faerie-rad",
+    "bonus-far-out-man",
+    "bonus-featuring-andrew-maclean",
+    "bonus-featuring-deathburger",
+    "bonus-featuring-gary-baseman",
+    "bonus-featuring-gene-luen-yang",
+    "bonus-featuring-imiri-sakabashira",
+    "bonus-featuring-jay-howell",
+    "bonus-featuring-julie-bell",
+    "bonus-featuring-kevin-eastman-colors",
+    "bonus-featuring-kevin-eastman-colors-foil",
+    "bonus-featuring-kevin-eastman-inks",
+    "bonus-featuring-kevin-eastman-inks-foil",
+    "bonus-featuring-luke-pearson",
+    "bonus-featuring-mitsuhiro-arita",
+    "bonus-featuring-peach-momoko",
+    "bonus-featuring-phoebe-wahl",
+    "bonus-featuring-stan-sakai",
+    "bonus-featuring-stan-sakai-foil",
+    "bonus-frazetta-second-exhibition",
+    "bonus-full-sleeves-the-tattoo-pack",
+    "bonus-garden-buds",
+    "bonus-gift-wrapped",
+    "bonus-goblin-and-squabblin",
+    "bonus-happy-yargle-day",
+    "bonus-hard-boiled-thrillers",
+    "bonus-heads-i-win-tails-you-lose",
+    "bonus-if-looks-could-kill",
+    "bonus-imaginary-friends",
+    "bonus-in-memoriam-jaya-ballard",
+    "bonus-inked",
+    "bonus-international-womens-day-2020",
+    "bonus-introducing-kaito-shizuki",
+    "bonus-just-add-milk",
+    "bonus-just-some-totally-normal-guys",
+    "bonus-kaleidoscope-killers",
+    "bonus-kamigawa-ink",
+    "bonus-kamigawa-the-manga-the-cards",
+    "bonus-keep-partying-hard-shred-harder-than-you-previously-thought-possible",
+    "bonus-legendary-flyers-not-that-kind",
+    "bonus-lil-giri-saves-the-day",
+    "bonus-lil-legends",
+    "bonus-lil-walkers",
+    "bonus-liler-walkers",
+    "bonus-lilest-walkers",
+    "bonus-look-at-the-kitties",
+    "bonus-lorwyn-lightboxes",
+    "bonus-magic-the-baseballing",
+    "bonus-magiccon-the-gathering",
+    "bonus-maho-gakuin-seishun-hakusho",
+    "bonus-marvel-dan-hipp",
+    "bonus-marvel-earths-mightiest-pets",
+    "bonus-marvel-spinner-rack-specials",
+    "bonus-marvel-true-believers-in-love",
+    "bonus-marvels-deadpool-i-fixed-it-youre-welcome-foil",
+    "bonus-marvels-deadpool-i-fixed-it-youre-welcome-nonfoil",
+    "bonus-marvels-deadpool-i-fixed-it-youre-welcome-pool-party-foil",
+    "bonus-marvels-hulk-smash",
+    "bonus-math-is-for-blockers",
+    "bonus-meditations-on-nature",
+    "bonus-monster-movie-marathon",
+    "bonus-monstrous-magazines",
+    "bonus-more-borderless-planeswalkers",
+    "bonus-mothers-day-2021",
+    "bonus-mycosynthwave",
+    "bonus-nature-is-adorable",
+    "bonus-notebook-genius",
+    "bonus-now-on-vhs",
+    "bonus-oishii-tokens",
+    "bonus-omens-of-chaos",
+    "bonus-ornithological-studies",
+    "bonus-our-show-is-on-friday-can-you-make-it",
+    "bonus-outlaw-anthology-vol-1-rebellious-renegades",
+    "bonus-outlaw-anthology-vol-2-sinister-scoundrels",
+    "bonus-paradise-frost",
+    "bonus-phyrexian-faves",
+    "bonus-phyrexian-praetors-compleat-edition",
+    "bonus-pick-em-and-stick-em",
+    "bonus-pictures-of-the-floating-world",
+    "bonus-pixelsnowlandsjpg",
+    "bonus-poker-faces",
+    "bonus-pride-across-the-multiverse",
+    "bonus-prints-charming",
+    "bonus-prints-of-darkness",
+    "bonus-prismatic-nightmares",
+    "bonus-purrfection",
+    "bonus-restless-in-peace",
+    "bonus-roadshow-edition-burning-revelations",
+    "bonus-rule-the-room",
+    "bonus-saturday-morning-dandd",
+    "bonus-saturday-morning-dandd-foil-drop",
+    "bonus-secret-lair-high-class-of-87",
+    "bonus-secret-lair-x-brain-dead-creatures",
+    "bonus-secret-lair-x-brain-dead-lands",
+    "bonus-secret-lair-x-brain-dead-staples",
+    "bonus-secret-lair-x-dungeons-and-dragons-astarions-thirst",
+    "bonus-secret-lair-x-dungeons-and-dragons-death-is-in-the-eyes-of-the-beholder-i",
+    "bonus-secret-lair-x-dungeons-and-dragons-death-is-in-the-eyes-of-the-beholder-ii",
+    "bonus-secret-lair-x-dungeons-and-dragons-karlachs-rage",
+    "bonus-secret-lair-x-fallout-points-of-interest",
+    "bonus-secret-lair-x-fallout-special",
+    "bonus-secret-lair-x-fallout-vault-boy",
+    "bonus-secret-lair-x-final-fantasy-game-over",
+    "bonus-secret-lair-x-final-fantasy-grimoire",
+    "bonus-secret-lair-x-final-fantasy-weapons",
+    "bonus-secret-lair-x-flower-power",
+    "bonus-secret-lair-x-hatsune-miku-digital-sensation-english-foil",
+    "bonus-secret-lair-x-hatsune-miku-digital-sensation-english-nonfoil",
+    "bonus-secret-lair-x-hatsune-miku-electric-entourage-english-foil",
+    "bonus-secret-lair-x-hatsune-miku-electric-entourage-english-nonfoil",
+    "bonus-secret-lair-x-hatsune-miku-sakura-superstar-english-foil",
+    "bonus-secret-lair-x-hatsune-miku-sakura-superstar-english-nonfoil",
+    "bonus-secret-lair-x-hatsune-miku-winter-diva-english-foil",
+    "bonus-secret-lair-x-hatsune-miku-winter-diva-english-nonfoil",
+    "bonus-secret-lair-x-marvels-black-panther",
+    "bonus-secret-lair-x-marvels-captain-america",
+    "bonus-secret-lair-x-marvels-deadpool-april-pools-day",
+    "bonus-secret-lair-x-marvels-iron-man",
+    "bonus-secret-lair-x-marvels-spider-man-daily-bugle-breaking-news",
+    "bonus-secret-lair-x-marvels-spider-man-heroic-deeds",
+    "bonus-secret-lair-x-marvels-spider-man-mana-symbiote",
+    "bonus-secret-lair-x-marvels-spider-man-venom-unleashed-colors",
+    "bonus-secret-lair-x-marvels-spider-man-venom-unleashed-inks",
+    "bonus-secret-lair-x-marvels-spider-man-villainous-plots",
+    "bonus-secret-lair-x-marvels-storm",
+    "bonus-secret-lair-x-marvels-wolverine",
+    "bonus-secret-lair-x-sonic-the-hedgehog-chasing-adventure",
+    "bonus-secret-lair-x-sonic-the-hedgehog-friends-and-foes",
+    "bonus-secret-lair-x-sonic-the-hedgehog-turbo-gear",
+    "bonus-shades-not-included",
+    "bonus-showcase-all-will-be-one-step-and-compleat",
+    "bonus-showcase-bloomburrow",
+    "bonus-showcase-dominaria-united-textured",
+    "bonus-showcase-duskmourn",
+    "bonus-showcase-kaldheim-part-1",
+    "bonus-showcase-kaldheim-part-2",
+    "bonus-showcase-march-of-the-machine-vol-1",
+    "bonus-showcase-march-of-the-machine-vol-2",
+    "bonus-showcase-march-of-the-machine-vol-3",
+    "bonus-showcase-midnight-hunt",
+    "bonus-showcase-monster-anatomy-101",
+    "bonus-showcase-murders-at-karlov-manor",
+    "bonus-showcase-neon-dynasty-neon-ink",
+    "bonus-showcase-streets-of-new-capenna-gilded",
+    "bonus-showcase-strixhaven",
+    "bonus-showcase-strixhaven-foil-drop",
+    "bonus-showcase-the-lost-caverns-of-ixalan",
+    "bonus-showcase-thrilling-tales-of-the-undead",
+    "bonus-showcase-zendikar-revisited",
+    "bonus-slay-the-day",
+    "bonus-so-salty",
+    "bonus-special-guest-fiona-staples",
+    "bonus-special-guest-jen-bartel",
+    "bonus-special-guest-junji-ito",
+    "bonus-special-guest-kelogsloops",
+    "bonus-special-guest-kozyndan-another-story",
+    "bonus-special-guest-kozyndan-the-lands",
+    "bonus-special-guest-matt-jukes",
+    "bonus-special-guest-yoji-shinkawa",
+    "bonus-special-guest-yuko-shimizu",
+    "bonus-spongebob-squarepants-internet-sensation",
+    "bonus-spongebob-squarepants-lands-under-the-sea",
+    "bonus-spongebob-squarepants-legends-of-bikini-bottom",
+    "bonus-ssssssnakessssss",
+    "bonus-tales-of-the-time-stoppers",
+    "bonus-teenage-mutant-ninja-turtles-the-last-ronin",
+    "bonus-teenage-mutant-ninja-turtles-the-mighty-mutanimals",
+    "bonus-teenage-mutant-ninja-turtles-vhs-villains",
+    "bonus-teferis-time-trouble",
+    "bonus-thalia-beyond-the-helvault",
+    "bonus-the-90s-binder-experience",
+    "bonus-the-beauty-of-the-beasts",
+    "bonus-the-dracula-lands",
+    "bonus-the-eyes-have-it",
+    "bonus-the-fairest-drop-of-all",
+    "bonus-the-full-text-lands",
+    "bonus-the-meaning-of-life-maybe",
+    "bonus-the-office-dwights-destiny",
+    "bonus-the-path-not-traveled",
+    "bonus-the-space-beyond-the-stars",
+    "bonus-the-stars-gaze-back",
+    "bonus-the-tokyo-lands",
+    "bonus-the-unfathomable-crushing-brutality-of-basic-lands",
+    "bonus-the-weirdest-pets-in-the-multiverse",
+    "bonus-theros-stargazing-vol-i-heliod",
+    "bonus-theros-stargazing-vol-ii-thassa",
+    "bonus-theros-stargazing-vol-iii-erebos",
+    "bonus-theros-stargazing-vol-iv-purphoros",
+    "bonus-theros-stargazing-vol-v-nylea",
+    "bonus-they-grow-up-so-fast",
+    "bonus-time-trouble-two",
+    "bonus-tobys-journey-by-gary-baseman",
+    "bonus-tome-of-the-astral-sorceress",
+    "bonus-totally-spaced-out-galaxy",
+    "bonus-tragic-romance",
+    "bonus-trick-or-treat",
+    "bonus-twisted-toons",
+    "bonus-viva-las-rakdos",
+    "bonus-vroooooommmmmm",
+    "bonus-we-hope-you-like-squirrels",
+    "bonus-welcome-to-castle-dracula",
+    "bonus-welcome-to-the-fungal",
+    "bonus-wild-in-bloom",
+    "bonus-witchs-familiar",
+    "bonus-wizards-of-the-street",
+    "bonus-year-of-the-rat",
+    "chaos-emeralds",
+    "deceptive-districts",
+    "dnd-50th-anniversary",
+    "elusive-elves-early",
+    "elusive-elves-late",
+    "fin-elementals",
+    "spider-man"
+   ]
+  },
+  "slz": {
+   "bytes": 14170,
+   "entries": 726,
+   "file": "slz.json.gz",
+   "printings": 363,
+   "refs": 726,
+   "sha256": "96f4b11468b5fcc6e961a0c3c7148b4a44918264c9eba0168a941a414214d388",
+   "types": [
+    "default"
+   ]
+  },
+  "snc": {
+   "bytes": 45245,
+   "entries": 5012,
+   "file": "snc.json.gz",
+   "printings": 967,
+   "refs": 5012,
+   "sha256": "edc60f6cdc1a236c4d10dfb63c3acd2e6ef847e590be7328a1476f1902b9eda9",
+   "types": [
+    "arena",
+    "collector",
+    "collector-sample",
+    "draft",
+    "prerelease-brokers",
+    "prerelease-cabaretti",
+    "prerelease-maestros",
+    "prerelease-obscura",
+    "prerelease-riveteers",
+    "promo",
+    "promo-foil",
+    "set",
+    "theme-brokers",
+    "theme-cabaretti",
+    "theme-maestros",
+    "theme-obscura",
+    "theme-riveteers"
+   ]
+  },
+  "soi": {
+   "bytes": 16681,
+   "entries": 671,
+   "file": "soi.json.gz",
+   "printings": 374,
+   "refs": 671,
+   "sha256": "4014b07d8e4b5fe5afb288c7f0366469273035eb57149840b8800b4f0c118c3c",
+   "types": [
+    "draft",
+    "prerelease"
+   ]
+  },
+  "sok": {
+   "bytes": 7934,
+   "entries": 405,
+   "file": "sok.json.gz",
+   "printings": 185,
+   "refs": 405,
+   "sha256": "dbe9ce659a1288a1809245a68f13c006ebe792ff03793e4ba363a95d811493ee",
+   "types": [
+    "draft",
+    "fat-pack"
+   ]
+  },
+  "som": {
+   "bytes": 10924,
+   "entries": 747,
+   "file": "som.json.gz",
+   "printings": 249,
+   "refs": 747,
+   "sha256": "d4eb0190b1e6b493a787358a19db01480d4919201fc9198bf51aa6f75f0cbe52",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "sos": {
+   "bytes": 39117,
+   "entries": 4005,
+   "file": "sos.json.gz",
+   "printings": 817,
+   "refs": 4005,
+   "sha256": "c1bb6b741828d8fbf4d6c58efc089b88ded7110577cd96474a16889a0a3e4ccd",
+   "types": [
+    "codex-bundle",
+    "collector",
+    "play",
+    "play-arena",
+    "prerelease-lorehold",
+    "prerelease-prismari",
+    "prerelease-quandrix",
+    "prerelease-silverquill",
+    "prerelease-witherbloom",
+    "promo",
+    "promo-foil"
+   ]
+  },
+  "spm": {
+   "bytes": 19153,
+   "entries": 1240,
+   "file": "spm.json.gz",
+   "printings": 417,
+   "refs": 1240,
+   "sha256": "dd045548bfe33ac38d0783cf58f96f62cbd369badac84c003898ecb877008da0",
+   "types": [
+    "collector",
+    "play",
+    "prerelease"
+   ]
+  },
+  "ss1": {
+   "bytes": 539,
+   "entries": 16,
+   "file": "ss1.json.gz",
+   "printings": 8,
+   "refs": 16,
+   "sha256": "fb7b7bdb236f77446a86a1f69ab5fdc63b37a0175565d3f271b8003c2ae2e264",
+   "types": [
+    "default"
+   ]
+  },
+  "ss2": {
+   "bytes": 550,
+   "entries": 16,
+   "file": "ss2.json.gz",
+   "printings": 8,
+   "refs": 16,
+   "sha256": "b962efb709b4346520a38d9696e313ea3c5fcd7a03a21bae4b28f13f28c96bd3",
+   "types": [
+    "default"
+   ]
+  },
+  "ss3": {
+   "bytes": 547,
+   "entries": 16,
+   "file": "ss3.json.gz",
+   "printings": 8,
+   "refs": 16,
+   "sha256": "932c48085efcdd46e6415c33f80a09e9a7a5a31881fd63bcd080f3b12addef9c",
+   "types": [
+    "default"
+   ]
+  },
+  "sth": {
+   "bytes": 5737,
+   "entries": 143,
+   "file": "sth.json.gz",
+   "printings": 143,
+   "refs": 143,
+   "sha256": "1f0d12e2403668d11d8b581f987cc42aa5d351f73f4a767edc07dc6cc4b380c2",
+   "types": [
+    "draft"
+   ]
+  },
+  "stx": {
+   "bytes": 57148,
+   "entries": 7196,
+   "file": "stx.json.gz",
+   "printings": 1164,
+   "refs": 7196,
+   "sha256": "d2f53e54571dfaa1a3c86794cacc29d7fb26f552852d4ca0283e257737e53c86",
+   "types": [
+    "arena",
+    "collector",
+    "draft",
+    "jp",
+    "prerelease-lorehold",
+    "prerelease-prismari",
+    "prerelease-quandrix",
+    "prerelease-silverquill",
+    "prerelease-witherbloom",
+    "promo",
+    "promo-foil",
+    "set",
+    "set-jp",
+    "theme-lorehold",
+    "theme-prismari",
+    "theme-quandrix",
+    "theme-silverquill",
+    "theme-witherbloom"
+   ]
+  },
+  "sum": {
+   "bytes": 11781,
+   "entries": 319,
+   "file": "sum.json.gz",
+   "printings": 306,
+   "refs": 319,
+   "sha256": "e7c1797763d2ba9848f4787e989bafba842f082885ae7d6284540c91eaa421e3",
+   "types": [
+    "default"
+   ]
+  },
+  "tdm": {
+   "bytes": 35781,
+   "entries": 3689,
+   "file": "tdm.json.gz",
+   "printings": 750,
+   "refs": 3689,
+   "sha256": "f5a00a0259f64ec017b45d0dfc1b7ea44465fd69ce73ce376a06be74989caba6",
+   "types": [
+    "collector",
+    "collector-sample",
+    "play",
+    "play-arena",
+    "prerelease",
+    "prerelease-abzan",
+    "prerelease-jeskai",
+    "prerelease-mardu",
+    "prerelease-sultai",
+    "prerelease-temur",
+    "promo",
+    "promo-foil"
+   ]
+  },
+  "thb": {
+   "bytes": 27423,
+   "entries": 1965,
+   "file": "thb.json.gz",
+   "printings": 614,
+   "refs": 1965,
+   "sha256": "34688a9ebcd0cbb34486e84ba3f12df88a10dd45c038ad06ad3169be474f4e55",
+   "types": [
+    "arena",
+    "collector",
+    "draft",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "theme-b",
+    "theme-g",
+    "theme-r",
+    "theme-u",
+    "theme-w"
+   ]
+  },
+  "ths": {
+   "bytes": 11497,
+   "entries": 752,
+   "file": "ths.json.gz",
+   "printings": 254,
+   "refs": 752,
+   "sha256": "da5b870ab8ae46f4ae8a31b9940dde24175c3eb1698a311d2f21953f562fc753",
+   "types": [
+    "draft",
+    "prerelease-ambition",
+    "prerelease-battle",
+    "prerelease-honor",
+    "prerelease-might",
+    "prerelease-wisdom"
+   ]
+  },
+  "tla": {
+   "bytes": 35609,
+   "entries": 3223,
+   "file": "tla.json.gz",
+   "printings": 749,
+   "refs": 3223,
+   "sha256": "ca8106884d510c8eaea899db72a2b90fef8b1ea34ec823574fb7f94858061eda",
+   "types": [
+    "collector",
+    "commander-bundle",
+    "play",
+    "play-arena",
+    "prerelease",
+    "prerelease-aang",
+    "prerelease-azula",
+    "prerelease-katara",
+    "prerelease-toph",
+    "prerelease-zuko"
+   ]
+  },
+  "tle": {
+   "bytes": 14802,
+   "entries": 996,
+   "file": "tle.json.gz",
+   "printings": 316,
+   "refs": 996,
+   "sha256": "ac98a810adcc5213904da7f139f043c9bb2cf9767fbd187b3491d029992d1ace",
+   "types": [
+    "jumpstart"
+   ]
+  },
+  "tmp": {
+   "bytes": 13632,
+   "entries": 680,
+   "file": "tmp.json.gz",
+   "printings": 350,
+   "refs": 680,
+   "sha256": "ef33fd6c3d2092f8dfa670ee56eb39dfb0301fd4c58ff0e710c33984c5deb35b",
+   "types": [
+    "draft",
+    "starter"
+   ]
+  },
+  "tmt": {
+   "bytes": 22527,
+   "entries": 1984,
+   "file": "tmt.json.gz",
+   "printings": 437,
+   "refs": 1984,
+   "sha256": "37fc3ade9fecd46eb6447d54ecc8f66de2bdc648258c49fc6b7923583aa4bc0a",
+   "types": [
+    "collector",
+    "pizza-bundle",
+    "play",
+    "play-arena",
+    "prerelease"
+   ]
+  },
+  "tor": {
+   "bytes": 6742,
+   "entries": 361,
+   "file": "tor.json.gz",
+   "printings": 163,
+   "refs": 361,
+   "sha256": "409e03df43da4b22137da57fba21f39484ba6ec8c74e4bcbff197bbefb8a344f",
+   "types": [
+    "draft",
+    "fat-pack"
+   ]
+  },
+  "tpr": {
+   "bytes": 11248,
+   "entries": 538,
+   "file": "tpr.json.gz",
+   "printings": 269,
+   "refs": 538,
+   "sha256": "6b587047fd9d24febe73981f92c62b75b44d749329789b8fe1d196cd490138e4",
+   "types": [
+    "mtgo"
+   ]
+  },
+  "tsp": {
+   "bytes": 19376,
+   "entries": 1547,
+   "file": "tsp.json.gz",
+   "printings": 422,
+   "refs": 1547,
+   "sha256": "7c8a6bcbd6b02d7c9ac3a0614e5d9afeee89f62bfbbcd7986cf671e2ea4cee8d",
+   "types": [
+    "draft",
+    "tournament"
+   ]
+  },
+  "tsr": {
+   "bytes": 18031,
+   "entries": 820,
+   "file": "tsr.json.gz",
+   "printings": 410,
+   "refs": 820,
+   "sha256": "c310e0f71e0083f6a586d5341f51bbb9682e1e56f0207c863c5d78e6f9459b52",
+   "types": [
+    "draft"
+   ]
+  },
+  "uds": {
+   "bytes": 5981,
+   "entries": 286,
+   "file": "uds.json.gz",
+   "printings": 143,
+   "refs": 286,
+   "sha256": "3ab778f8b4d3ace39559498e5f094a54b82ddc3ec302d79b77339fd1990b3718",
+   "types": [
+    "draft"
+   ]
+  },
+  "ugin": {
+   "bytes": 1709,
+   "entries": 36,
+   "file": "ugin.json.gz",
+   "printings": 36,
+   "refs": 36,
+   "sha256": "0258a716397737d0284e6081c111caaeb44e050fadd585d3251548c568da90e9",
+   "types": [
+    "fate"
+   ]
+  },
+  "ugl": {
+   "bytes": 3865,
+   "entries": 88,
+   "file": "ugl.json.gz",
+   "printings": 88,
+   "refs": 88,
+   "sha256": "4702d7ca0ab6c6f2e3ee85f3f2eb77600223bab7e249164eddf29747a03b353f",
+   "types": [
+    "draft"
+   ]
+  },
+  "ulg": {
+   "bytes": 6006,
+   "entries": 286,
+   "file": "ulg.json.gz",
+   "printings": 143,
+   "refs": 286,
+   "sha256": "7b4f2e4ddb21045d6b2d80769f395b7d9743ed0772af757aad3119625fdd4dc9",
+   "types": [
+    "draft"
+   ]
+  },
+  "uma": {
+   "bytes": 12902,
+   "entries": 548,
+   "file": "uma.json.gz",
+   "printings": 294,
+   "refs": 548,
+   "sha256": "3954bfd8dbe992d7930eb552ea51c2355587f5b9748a9c97d756a91aba6c3771",
+   "types": [
+    "box-topper",
+    "draft"
+   ]
+  },
+  "unf": {
+   "bytes": 31516,
+   "entries": 1471,
+   "file": "unf.json.gz",
+   "printings": 747,
+   "refs": 1471,
+   "sha256": "578efe62bcf8b52d5e9a02f2a064f9c7151eff88933ebdfd09faf0dee09e7ca7",
+   "types": [
+    "box-topper",
+    "collector",
+    "draft"
+   ]
+  },
+  "unh": {
+   "bytes": 7394,
+   "entries": 281,
+   "file": "unh.json.gz",
+   "printings": 168,
+   "refs": 281,
+   "sha256": "b576d11c82be107ff1011594a0d5b6870d3d78cefc79a0db3e26e1798560de4b",
+   "types": [
+    "draft"
+   ]
+  },
+  "usg": {
+   "bytes": 13630,
+   "entries": 680,
+   "file": "usg.json.gz",
+   "printings": 350,
+   "refs": 680,
+   "sha256": "8b59a318e4d4c1e8ab3952a1e2276b8a9fe192bdaafa4c903efa8c65412cddb8",
+   "types": [
+    "draft",
+    "tournament"
+   ]
+  },
+  "ust": {
+   "bytes": 11649,
+   "entries": 536,
+   "file": "ust.json.gz",
+   "printings": 268,
+   "refs": 536,
+   "sha256": "c920c74275ffd6f3a4863175cf41db391501541a8d9ff22827d8e0567af80ca6",
+   "types": [
+    "draft"
+   ]
+  },
+  "vis": {
+   "bytes": 7232,
+   "entries": 192,
+   "file": "vis.json.gz",
+   "printings": 177,
+   "refs": 192,
+   "sha256": "5003b39e73885d237e180c760c376685e6882a77dcb7fefcc79ee1e457f00db6",
+   "types": [
+    "draft",
+    "preview"
+   ]
+  },
+  "vma": {
+   "bytes": 14248,
+   "entries": 650,
+   "file": "vma.json.gz",
+   "printings": 325,
+   "refs": 650,
+   "sha256": "4f83dff0f89a3a30b9fbf93819c8c491bb032c894c4edb53e17ff7419df88e42",
+   "types": [
+    "mtgo"
+   ]
+  },
+  "vow": {
+   "bytes": 39581,
+   "entries": 3076,
+   "file": "vow.json.gz",
+   "printings": 829,
+   "refs": 3076,
+   "sha256": "b7129563b778174eba1c8ac9506ab7a71c6dc740b6547226a17db747f6c00c35",
+   "types": [
+    "arena",
+    "box-topper",
+    "collector",
+    "draft",
+    "prerelease",
+    "set",
+    "theme-b",
+    "theme-g",
+    "theme-r",
+    "theme-u",
+    "theme-vampires",
+    "theme-w"
+   ]
+  },
+  "war": {
+   "bytes": 83053,
+   "entries": 4041,
+   "file": "war.json.gz",
+   "printings": 1958,
+   "refs": 4041,
+   "sha256": "9dc1077046e5e860d99affb34bdbc44dafa8c52771e60480e19b777932669102",
+   "types": [
+    "arena",
+    "draft",
+    "jp",
+    "prerelease",
+    "showdown",
+    "theme-b",
+    "theme-g",
+    "theme-r",
+    "theme-u",
+    "theme-w"
+   ]
+  },
+  "who": {
+   "bytes": 45214,
+   "entries": 2739,
+   "file": "who.json.gz",
+   "printings": 1133,
+   "refs": 2739,
+   "sha256": "0cf8338b82123d9453b5632a53b989de2576739a579f72bd28684e979d14b2d6",
+   "types": [
+    "collector",
+    "collector-sample"
+   ]
+  },
+  "woe": {
+   "bytes": 45741,
+   "entries": 4008,
+   "file": "woe.json.gz",
+   "printings": 984,
+   "refs": 4008,
+   "sha256": "d31f11cf9ec2e635564f69ea85f335c9bda8ce4f06bc8c982589aec7b206fb51",
+   "types": [
+    "arena",
+    "collector",
+    "collector-sample",
+    "draft",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "set"
+   ]
+  },
+  "wth": {
+   "bytes": 6873,
+   "entries": 167,
+   "file": "wth.json.gz",
+   "printings": 167,
+   "refs": 167,
+   "sha256": "d6510fd0dd1eeab241610f70bd914a8c50afc61311801db4f8aeecb5b26963e3",
+   "types": [
+    "draft"
+   ]
+  },
+  "wwk": {
+   "bytes": 7372,
+   "entries": 475,
+   "file": "wwk.json.gz",
+   "printings": 165,
+   "refs": 475,
+   "sha256": "24da6c35480e9b5eb23826cabfc4f2fd05fbf66b65234ac731438c5db1d620f9",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "xln": {
+   "bytes": 57299,
+   "entries": 3929,
+   "file": "xln.json.gz",
+   "printings": 1288,
+   "refs": 3929,
+   "sha256": "b5ead2e6134e128fcd1803129821643978f9808d0b9653c3d568dc39426f60d0",
+   "types": [
+    "arena",
+    "draft",
+    "prerelease",
+    "showdown",
+    "treasure-chest"
+   ]
+  },
+  "zen": {
+   "bytes": 10936,
+   "entries": 747,
+   "file": "zen.json.gz",
+   "printings": 249,
+   "refs": 747,
+   "sha256": "e035beb80bdf9fcf2d5c64897ce656d6a4afe22574bdb1c8e113a8cae4cd8b03",
+   "types": [
+    "draft",
+    "six"
+   ]
+  },
+  "zne": {
+   "bytes": 1465,
+   "entries": 30,
+   "file": "zne.json.gz",
+   "printings": 30,
+   "refs": 30,
+   "sha256": "213c1dfaa644776306c716a54f41487bde5f201dd9ef357ea2c6b2bfa2075f69",
+   "types": [
+    "box-topper"
+   ]
+  },
+  "znr": {
+   "bytes": 45089,
+   "entries": 3537,
+   "file": "znr.json.gz",
+   "printings": 989,
+   "refs": 3537,
+   "sha256": "d3686b7d843c688cd38691254e4400759b2e62778218e89a3ad2c95756e1a219",
+   "types": [
+    "arena",
+    "collector",
+    "draft",
+    "prerelease",
+    "promo",
+    "promo-foil",
+    "set",
+    "theme-b",
+    "theme-g",
+    "theme-party",
+    "theme-r",
+    "theme-u",
+    "theme-w"
+   ]
+  }
+ },
+ "totals": {
+  "bytes": 4449803,
+  "entries": 293230,
+  "refs": 293230,
+  "resolved": 293230,
+  "sets": 204,
+  "unresolved": 0
+ },
+ "v": 1
+}
