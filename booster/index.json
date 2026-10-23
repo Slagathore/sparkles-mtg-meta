@@ -1,5 +1,5 @@
 {
- "mtgjson": "5.3.0+20261018",
+ "mtgjson": "5.3.0+20261022",
  "sets": {
   "10e": {
    "bytes": 19306,
@@ -1444,12 +1444,12 @@
    ]
   },
   "mb1": {
-   "bytes": 83280,
+   "bytes": 83279,
    "entries": 5421,
    "file": "mb1.json.gz",
    "printings": 2060,
    "refs": 5421,
-   "sha256": "e2884f493d72c2c3de399e2405f8258e7a6b6875f1c1fdbf5a608ca0254b1b3b",
+   "sha256": "d0f3a0faa30060e5231c18fb3ba098fbdffb721c2c41a19c61d748c8cd92914e",
    "types": [
     "convention",
     "convention-2021",
@@ -1473,7 +1473,7 @@
    "file": "mbc.json.gz",
    "printings": 2346,
    "refs": 2525,
-   "sha256": "9a667157f8f1c9bdde43edc2a72096266db2ab60621172f6ac10f5658689613c",
+   "sha256": "76c2f273fcdcf2e6cb68f87faf2831f625d51512980c4d55ca9d2c1c622e74b2",
    "types": [
     "draft"
    ]
@@ -3060,7 +3060,7 @@
   }
  },
  "totals": {
-  "bytes": 4449803,
+  "bytes": 4449802,
   "entries": 293230,
   "refs": 293230,
   "resolved": 293230,
