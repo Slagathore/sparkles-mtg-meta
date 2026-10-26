@@ -1,5 +1,5 @@
 {
- "mtgjson": "5.3.0+20261022",
+ "mtgjson": "5.3.0+20261025",
  "sets": {
   "10e": {
    "bytes": 19306,
@@ -327,6 +327,17 @@
    "types": [
     "draft",
     "prerelease"
+   ]
+  },
+  "bchr": {
+   "bytes": 5114,
+   "entries": 125,
+   "file": "bchr.json.gz",
+   "printings": 125,
+   "refs": 125,
+   "sha256": "87c31c5bba5ca7cecbd5b270960248333969dea54df4a31bb7e1edd15b012b17",
+   "types": [
+    "default"
    ]
   },
   "bfz": {
@@ -3060,11 +3071,11 @@
   }
  },
  "totals": {
-  "bytes": 4449802,
-  "entries": 293230,
-  "refs": 293230,
-  "resolved": 293230,
-  "sets": 204,
+  "bytes": 4454916,
+  "entries": 293355,
+  "refs": 293355,
+  "resolved": 293355,
+  "sets": 205,
   "unresolved": 0
  },
  "v": 1
