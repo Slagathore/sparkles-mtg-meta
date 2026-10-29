@@ -1,5 +1,5 @@
 {
- "mtgjson": "5.3.0+20261027",
+ "mtgjson": "5.3.0+20261028",
  "sets": {
   "10e": {
    "bytes": 19306,
@@ -1473,18 +1473,18 @@
    "file": "mb2.json.gz",
    "printings": 1836,
    "refs": 1935,
-   "sha256": "befb222b2c3d0b0f1f48da326ba31be9e5e7aa2a8daf85a91b0724ff2b9ede5e",
+   "sha256": "4dafd15269e64cb1398255480ccbc0c15df86414546f29184d680f532798dc48",
    "types": [
     "draft"
    ]
   },
   "mbc": {
-   "bytes": 97052,
+   "bytes": 97051,
    "entries": 2525,
    "file": "mbc.json.gz",
    "printings": 2346,
    "refs": 2525,
-   "sha256": "894126e713291b13b39d386c93f9d113777befdfe8cc5832a4c5b385e0148275",
+   "sha256": "4e642b92dd0424ae2f8950ba87068f8c03056d93eaaacbac30743acf15d1d86d",
    "types": [
     "draft"
    ]
@@ -3071,7 +3071,7 @@
   }
  },
  "totals": {
-  "bytes": 4454915,
+  "bytes": 4454914,
   "entries": 293355,
   "refs": 293355,
   "resolved": 293355,
