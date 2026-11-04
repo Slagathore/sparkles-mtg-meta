@@ -1,5 +1,5 @@
 {
- "mtgjson": "5.3.0+20261030",
+ "mtgjson": "5.3.0+20261103",
  "sets": {
   "10e": {
    "bytes": 19306,
@@ -1479,12 +1479,12 @@
    ]
   },
   "mbc": {
-   "bytes": 97053,
+   "bytes": 97056,
    "entries": 2525,
    "file": "mbc.json.gz",
    "printings": 2346,
    "refs": 2525,
-   "sha256": "194609ad382dbba70f5f36769262c7dd5b9a54b6d9d0181a29b81db1db14ba0a",
+   "sha256": "80bfee0ef440e67d1404fda4023b4d18bc313004b24d01b91d06888de75b2291",
    "types": [
     "draft"
    ]
@@ -3071,7 +3071,7 @@
   }
  },
  "totals": {
-  "bytes": 4454916,
+  "bytes": 4454919,
   "entries": 293355,
   "refs": 293355,
   "resolved": 293355,
