@@ -1,5 +1,5 @@
 {
- "mtgjson": "5.3.0+20261103",
+ "mtgjson": "5.3.0+20261106",
  "sets": {
   "10e": {
    "bytes": 19306,
@@ -2148,12 +2148,12 @@
    ]
   },
   "sld": {
-   "bytes": 24219,
-   "entries": 2193,
+   "bytes": 24213,
+   "entries": 2194,
    "file": "sld.json.gz",
    "printings": 354,
-   "refs": 2193,
-   "sha256": "4c1c5061c1ede74b5c6f180b34696927260ee017977f34515f88ef51220bb253",
+   "refs": 2194,
+   "sha256": "c87589b1ee911db9ae4f21912c16dee610849f0eb24f976d22551361ffa4864c",
    "types": [
     "baseball-signed",
     "blueprint-mk1",
@@ -3071,10 +3071,10 @@
   }
  },
  "totals": {
-  "bytes": 4454919,
-  "entries": 293355,
-  "refs": 293355,
-  "resolved": 293355,
+  "bytes": 4454913,
+  "entries": 293356,
+  "refs": 293356,
+  "resolved": 293356,
   "sets": 205,
   "unresolved": 0
  },
