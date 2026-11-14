@@ -1,5 +1,5 @@
 {
- "mtgjson": "5.3.0+20261110",
+ "mtgjson": "5.3.0+20261113",
  "sets": {
   "10e": {
    "bytes": 19306,
@@ -2764,6 +2764,18 @@
     "mtgo"
    ]
   },
+  "trk": {
+   "bytes": 37963,
+   "entries": 2234,
+   "file": "trk.json.gz",
+   "printings": 813,
+   "refs": 2234,
+   "sha256": "1a78193e19cc4a245e906655c971cc3d1461ccb97f31a8c66287f4b03db9aa6c",
+   "types": [
+    "collector",
+    "play"
+   ]
+  },
   "tsp": {
    "bytes": 19376,
    "entries": 1547,
@@ -3071,11 +3083,11 @@
   }
  },
  "totals": {
-  "bytes": 4454906,
-  "entries": 293356,
-  "refs": 293356,
-  "resolved": 293356,
-  "sets": 205,
+  "bytes": 4492869,
+  "entries": 295590,
+  "refs": 295590,
+  "resolved": 295590,
+  "sets": 206,
   "unresolved": 0
  },
  "v": 1
