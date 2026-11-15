@@ -1,5 +1,5 @@
 {
- "mtgjson": "5.3.0+20261113",
+ "mtgjson": "5.3.0+20261114",
  "sets": {
   "10e": {
    "bytes": 19306,
@@ -967,7 +967,7 @@
    "file": "hml.json.gz",
    "printings": 140,
    "refs": 140,
-   "sha256": "4d6cfa018e5797ea48d4d0866a33a3f08938a4b6f4bb06535cc937e89d335779",
+   "sha256": "24116f19a44031f4258941b94bb0f1a68e4e493a0722378169cbe043a9c85bfb",
    "types": [
     "default"
    ]
