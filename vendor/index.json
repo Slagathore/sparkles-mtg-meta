@@ -4,8 +4,8 @@
  "shardCount": 256,
  "ckUrls": true,
  "totals": {
-  "printings": 107400,
-  "tcg": 104284,
+  "printings": 107404,
+  "tcg": 104288,
   "tcgE": 1218,
   "ck": 89101,
   "ckF": 63816,
@@ -15,7 +15,7 @@
   "ckUrlF": 63816,
   "ckUrlE": 1161,
   "conflicts": 0,
-  "bytes": 6334873,
+  "bytes": 6334986,
   "largest": 28187
  },
  "shards": {
@@ -220,9 +220,9 @@
    "printings": 424
   },
   "28": {
-   "bytes": 24139,
-   "sha256": "0b3d9ab1386241cb573dfd99cd15977f98098fe74fe4a1137a4c1261bb4790c2",
-   "printings": 405
+   "bytes": 24168,
+   "sha256": "3721908144f4e863b40f646daf0784a3c03b54438ccd39f7df7dacac79a37a0e",
+   "printings": 406
   },
   "29": {
    "bytes": 24110,
@@ -380,9 +380,9 @@
    "printings": 412
   },
   "48": {
-   "bytes": 22432,
-   "sha256": "ba4d6faebbef1476882b86b20389b5ed636e4648a0a6e34ff865a387c44f21f6",
-   "printings": 374
+   "bytes": 22463,
+   "sha256": "e5d563b9551957609f4d56132e2e165f410bea36913a69420eed52e365786a8f",
+   "printings": 375
   },
   "49": {
    "bytes": 26846,
@@ -486,7 +486,7 @@
   },
   "5d": {
    "bytes": 25798,
-   "sha256": "ae4492aef06bdfeb40853d914a0124331b40cc074df640df5f43f3c184a9db09",
+   "sha256": "400e2f04f062296c1b93c968be4ef78ebd858c3a9083f935968a3c79f1da343c",
    "printings": 436
   },
   "5e": {
@@ -1070,9 +1070,9 @@
    "printings": 442
   },
   "d2": {
-   "bytes": 23428,
-   "sha256": "69391cd0d8186b80526d7d61f74cfd9f60a289f7b42c9c9d926cf8c40aa4a8cd",
-   "printings": 395
+   "bytes": 23452,
+   "sha256": "01790a33c23db2b5048091d790f8562692c344aa63dd0b4a87ffe8fe26ba0b1a",
+   "printings": 396
   },
   "d3": {
    "bytes": 22139,
@@ -1240,8 +1240,8 @@
    "printings": 411
   },
   "f4": {
-   "bytes": 24221,
-   "sha256": "7ba1637160cb374629e7fc13f706f9a89bddc7576545344558b0590e86cbeffe",
+   "bytes": 24220,
+   "sha256": "16dc17015aeafab8cd588462e9608815be9f6216c0aa8e477ec51be4b16823de",
    "printings": 408
   },
   "f5": {
@@ -1265,9 +1265,9 @@
    "printings": 416
   },
   "f9": {
-   "bytes": 23769,
-   "sha256": "021a3fd8d233eed43c19db62e68154c06650a8b6302d2da9eda97e2488d2fda2",
-   "printings": 406
+   "bytes": 23799,
+   "sha256": "1a62ba42a9fc4a54c2e01909f9c2af5b86051539e41f069626f5b7fdf1ad2d52",
+   "printings": 407
   },
   "fa": {
    "bytes": 25759,
