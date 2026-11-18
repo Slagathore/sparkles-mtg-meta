@@ -4,18 +4,18 @@
  "shardCount": 256,
  "ckUrls": true,
  "totals": {
-  "printings": 107404,
-  "tcg": 104288,
+  "printings": 107403,
+  "tcg": 104287,
   "tcgE": 1218,
-  "ck": 89101,
-  "ckF": 63816,
+  "ck": 89100,
+  "ckF": 63818,
   "ckE": 1161,
-  "mcm": 102730,
-  "ckUrl": 89101,
-  "ckUrlF": 63816,
+  "mcm": 102729,
+  "ckUrl": 89100,
+  "ckUrlF": 63818,
   "ckUrlE": 1161,
   "conflicts": 0,
-  "bytes": 6334986,
+  "bytes": 6334981,
   "largest": 28187
  },
  "shards": {
@@ -530,8 +530,8 @@
    "printings": 417
   },
   "66": {
-   "bytes": 23577,
-   "sha256": "f38c5300e528294481771b7bb8a76a440a79267e0d91a8cbde7266fe5e16d364",
+   "bytes": 23604,
+   "sha256": "239a036b888b92e7028735a0ccb9f520824aa5b875384a25ad1cffb8aaff5d9f",
    "printings": 401
   },
   "67": {
@@ -610,9 +610,9 @@
    "printings": 392
   },
   "76": {
-   "bytes": 25359,
-   "sha256": "39aaca7b96bbeb0153f142a9b32a265730f246321b356f7983a65c9c5d664f79",
-   "printings": 423
+   "bytes": 25326,
+   "sha256": "5e683bedb49b858a89e6d161c078e165fd983fa6e6bac5bed3955b141462a3bf",
+   "printings": 422
   },
   "77": {
    "bytes": 23943,
@@ -940,8 +940,8 @@
    "printings": 431
   },
   "b8": {
-   "bytes": 24501,
-   "sha256": "5d41a2a03265b66e5df33ba72f9a8a41f94a69213a673309db3395a0459033d8",
+   "bytes": 24502,
+   "sha256": "3818c3b24dbaf2580c48a2a78085e8f0a76b6267b6a6d80886419d3093764eec",
    "printings": 416
   },
   "b9": {
