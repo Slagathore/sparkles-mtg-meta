@@ -1,5 +1,5 @@
 {
- "mtgjson": "5.3.0+20261114",
+ "mtgjson": "5.3.0+20261118",
  "sets": {
   "10e": {
    "bytes": 19306,
@@ -2765,15 +2765,16 @@
    ]
   },
   "trk": {
-   "bytes": 37963,
-   "entries": 2234,
+   "bytes": 38024,
+   "entries": 2339,
    "file": "trk.json.gz",
    "printings": 813,
-   "refs": 2234,
-   "sha256": "1a78193e19cc4a245e906655c971cc3d1461ccb97f31a8c66287f4b03db9aa6c",
+   "refs": 2339,
+   "sha256": "6c4cef60bcd62b05f37cc89115c4c8bf09801263e813d45e695f95885a4bda65",
    "types": [
     "collector",
-    "play"
+    "play",
+    "prerelease"
    ]
   },
   "tsp": {
@@ -3083,10 +3084,10 @@
   }
  },
  "totals": {
-  "bytes": 4492869,
-  "entries": 295590,
-  "refs": 295590,
-  "resolved": 295590,
+  "bytes": 4492930,
+  "entries": 295695,
+  "refs": 295695,
+  "resolved": 295695,
   "sets": 206,
   "unresolved": 0
  },
