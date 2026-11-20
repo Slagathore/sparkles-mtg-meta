@@ -1,5 +1,5 @@
 {
- "mtgjson": "5.3.0+20261118",
+ "mtgjson": "5.3.0+20261119",
  "sets": {
   "10e": {
    "bytes": 19306,
@@ -858,15 +858,17 @@
    ]
   },
   "fra": {
-   "bytes": 35881,
-   "entries": 9203,
+   "bytes": 40713,
+   "entries": 13604,
    "file": "fra.json.gz",
    "printings": 668,
-   "refs": 9203,
-   "sha256": "c9a5630689761b70c28c02ea13713e985fbc29a9f4ccc5cf8e963c20062565c9",
+   "refs": 13604,
+   "sha256": "5e702035f4c3098511088e36937dc3f95161f5074cd2b10542264d2804dd293f",
    "types": [
     "collector",
     "play",
+    "play-arena",
+    "prerelease",
     "promo",
     "promo-foil",
     "secret-lair-bundle-promo"
@@ -973,16 +975,17 @@
    ]
   },
   "hob": {
-   "bytes": 19624,
-   "entries": 1321,
+   "bytes": 20840,
+   "entries": 1880,
    "file": "hob.json.gz",
    "printings": 418,
-   "refs": 1321,
-   "sha256": "3043498c3be1058a099ae169520a98d0cae67ff0a91cf522c9199897d2339402",
+   "refs": 1880,
+   "sha256": "28a1cd9a315a1960c2412211fe23564c5bf2c5418d5c50c9968cecaed448446f",
    "types": [
     "box-topper",
     "collector",
     "play",
+    "play-arena",
     "prerelease"
    ]
   },
@@ -1479,12 +1482,12 @@
    ]
   },
   "mbc": {
-   "bytes": 97048,
-   "entries": 2525,
+   "bytes": 97033,
+   "entries": 2527,
    "file": "mbc.json.gz",
    "printings": 2346,
-   "refs": 2525,
-   "sha256": "b45f46e0387947797e96da52fb0cf5b8bf647197fbe02a4f2270439d88b8ac54",
+   "refs": 2527,
+   "sha256": "03626c81d73face2c35d6a2712d67812c988ecc6a80a76585ea3958cba6adacb",
    "types": [
     "draft"
    ]
@@ -3084,10 +3087,10 @@
   }
  },
  "totals": {
-  "bytes": 4492930,
-  "entries": 295695,
-  "refs": 295695,
-  "resolved": 295695,
+  "bytes": 4498963,
+  "entries": 300657,
+  "refs": 300657,
+  "resolved": 300657,
   "sets": 206,
   "unresolved": 0
  },
