@@ -5,7 +5,7 @@
  "ckUrls": true,
  "totals": {
   "printings": 107435,
-  "tcg": 104319,
+  "tcg": 104320,
   "tcgE": 1218,
   "ck": 89100,
   "ckF": 63818,
@@ -15,7 +15,7 @@
   "ckUrlF": 63818,
   "ckUrlE": 1161,
   "conflicts": 0,
-  "bytes": 6335928,
+  "bytes": 6335934,
   "largest": 28187
  },
  "shards": {
@@ -1260,8 +1260,8 @@
    "printings": 462
   },
   "f8": {
-   "bytes": 24321,
-   "sha256": "5d6364007df04515614e360b65dc21db5573204f061d29f0552cd423a8e35581",
+   "bytes": 24327,
+   "sha256": "3964e3735f2ba3148221f9d674f19ac3786479a48f0b9672083d03ae2c2988b6",
    "printings": 416
   },
   "f9": {
